@@ -1,3 +1,4 @@
 | Article | Date | Description | Link |
 | ------------| ---- | ------------ | ---- |
 | .NET + Design Patterns: +8 hours of free videos | 2023-04-03 | Article with free content covering the implementation of various design patterns on the .NET platform.<br/>Technologies used: .NET, ASP.NET Core, C#, JWT, Polly, Simmy, MediatR, Apache Kafka, Swagger/OpenAPI, Jaeger, OpenTelemetry | https://renatogroffe.medium.com/net-design-patterns-8-horas-de-v%C3%ADdeos-gratuitos-4b418cb18425 |
+| .NET + Design Patterns: +8 hours of free videos | 2023-04-03 | Article with free content covering the implementation of various design patterns on the .NET platform.<br/>Technologies used: .NET, ASP.NET Core, C#, JWT, Polly, Simmy, MediatR, Apache Kafka, Swagger/OpenAPI, Jaeger, OpenTelemetry | https://renatogroffe.medium.com/net-design-patterns-8-horas-de-v%C3%ADdeos-gratuitos-4b418cb18425 |
