@@ -1,0 +1,3 @@
+| Article | Date | Description | Link |
+| ------------| ---- | ------------ | ---- |
+| Kubernetes in practical examples: 13 hours of free content | 2023-04-08 | Article grouping free content I produced about using Kubernetes in conjunction with technologies such as Health Checks/Liveness Probes, Downward API, Azure Kubernetes Service, KEDA (Kubernetes Event-driven Autoscaling), Cron Scaler (KEDA), Azure Container Apps, Application Insights, Azure Queue Storage, Linux, Helm, k9s, Visual Studio Code, .NET, ASP.NET Core, Lens... | https://renatogroffe.medium.com/kubernetes-em-exemplos-pr%C3%A1ticos-13-horas-de-conte%C3%BAdos-gratuitos-7aff1aa56e40 |
