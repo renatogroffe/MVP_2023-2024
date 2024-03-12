@@ -1,0 +1,2 @@
+The Preview 3 of .NET 4 was used in this article.
+
