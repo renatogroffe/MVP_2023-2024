@@ -1,4 +1,4 @@
-The Preview 6 of .NET 8 was used in this article.
+The Preview 7 of .NET 8 was used in this article.
 
 This post focused on implementing good practices in software development using the .NET platform.
 
