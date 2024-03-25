@@ -1,3 +1,8 @@
 The Preview 6 of .NET 8 was used in this article.
 
 This post focused on implementing good practices in software development using the .NET platform.
+
+This article sought to highlight the facilities that Azure DevOps/Azure Pipelines virtual environments offer for .NET Developers.
+
+
+This article emphasized the use of containerized solutions using Azure Kubernetes Service (AKS).
