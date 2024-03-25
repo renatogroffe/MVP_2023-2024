@@ -1,2 +1,2 @@
-The Preview 5 of .NET 8 was used in this article.
+The Preview 6 of .NET 8 was used in this article.
 
