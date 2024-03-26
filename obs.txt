@@ -10,3 +10,6 @@ This article sought to highlight the facilities that Azure DevOps/Azure Pipeline
 This article emphasized the use of containerized solutions using Azure Kubernetes Service (AKS).
 
 This article is part of a series on Cloud Architecture, also bringing content (such as videos) that impacted hundreds of people.
+
+
+This content includes free videos that have impacted hundreds of professionals.
