@@ -1,8 +1,10 @@
 TDC (The Developer's Conference) is one of the biggest technology events in Brazil, with thousands of participants at each edition.
 
+TDC Innovation 2023 - Sala Microsoft
+
 The Preview 7 of .NET 8 was used in this article.
 
-The Release Candidate 1 of .NET 8 was used in this article.
+The Release Candidate 2 of .NET 8 was used in this article.
 
 This post focused on implementing good practices in software development using the .NET platform.
 
