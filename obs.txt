@@ -1,3 +1,5 @@
+TDC (The Developer's Conference) is one of the biggest technology events in Brazil, with thousands of participants at each edition.
+
 The Preview 7 of .NET 8 was used in this article.
 
 The Release Candidate 1 of .NET 8 was used in this article.
