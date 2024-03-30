@@ -1,0 +1,3 @@
+| Event | Date | Description | Link | Participants |
+| ------------| ---- | ------------ | ---- | ---- |
+| .NET 8: useful new features for Back-End Development - DEVPIRA .NET Wknd 2024 | 2024-03-02 | Presentation covering new features of .NET 8 useful for Back-End Development.<br/>Lecture held during the March 2024 edition of DEVPIRA .NET Wknd, an event that took place in the city of Piracicaba-SP.<br/>Technologies covered: .NET 8, ASP.NET Core, C# 12, Visual Studio Code, Azure Container Apps, Application Insights, Linux | https://renatogroffe.medium.com/net-8-novidades-%C3%BAteis-para-o-desenvolvimento-back-end-devpira-net-wknd-2024-ab0156cffd9d |70 |
