@@ -1,16 +1,6 @@
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
-
-
-
-| .NET 8 - New Features: improvements involving containers in a brief summary | 2024-01-15 | ------------------------------- | https://renatogroffe.medium.com/novidades-do-net-8-melhorias-envolvendo-containers-em-um-breve-resumo-66828f21517a |
-
-
-Fala galera! Segue mais um artigo que produzi sobre novidades do .NET 8. Neste post trago um breve resumo sobre melhorias envolvendo containers - como o uso de uma nova porta default para HTTP em projetos ASPNET Core:
-
-
-Article about new features of .NET 8. In this post I present a new functionality - Short-circuit middleware - that allows you to disable the execution of middlewares for specific endpoints in projects based on Minimal APIs + ASPNET Core.<br/>Technologies used: .NET 8, C#, Visual Studio Code, Swagger/OpenAPI
-
+| .NET 8 - New Features: improvements involving containers in a brief summary | 2024-01-15 | Article about new features of .NET 8. In this post I present a brief summary of improvements involving containers, such as the use of a new default port for HTTP in ASPNET Core projects.<br/>Technologies used: .NET 8, C#, Docker, Linux, Visual Studio Code, Swagger/OpenAPI, Windows Terminal | https://renatogroffe.medium.com/novidades-do-net-8-melhorias-envolvendo-containers-em-um-breve-resumo-66828f21517a |
 | .NET 8 - New Features: Short-circuit middleware in Minimal APIs | 2023-12-18 | Article about new features of .NET 8. In this post I present a new functionality - Short-circuit middleware - that allows you to disable the execution of middlewares for specific endpoints in projects based on Minimal APIs + ASPNET Core.<br/>Technologies used: .NET 8, C#, Visual Studio Code, Swagger/OpenAPI | https://renatogroffe.medium.com/novidades-do-net-8-short-circuit-middleware-em-minimal-apis-3435d0dee7eb |
 | Visual Studio Code Tips: stopping a process from running on a local port - Part 16 | 2023-12-16 | Article with tips and extensions to simplify the use of Visual Studio Code.<br/>Extensions demonstrated: Task Kill<br/>Technologies covered: Visual Studio Code, .NET, ASP.NET Core, Windows Terminal | https://renatogroffe.medium.com/dicas-de-visual-studio-code-interrompendo-a-execu%C3%A7%C3%A3o-de-um-processo-em-uma-porta-local-pt-16-eaa5a43921b7 |
 | .NET + Design Patterns: +20 hours of free videos | 2023-12-11 | Article with free content covering the implementation of various design patterns on the .NET platform.<br/>Technologies used: NET 8, ASP.NET Core, Visual Studio Code, Redis, OpenAPI/Swagger | https://renatogroffe.medium.com/net-design-patterns-20-horas-de-v%C3%ADdeos-gratuitos-50c73b6b4fd4 |
