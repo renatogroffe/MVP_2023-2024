@@ -2,4 +2,5 @@
 | ------------ | ---- | ---- |
 | Script in .http format for testing with Graph API in Azure AD B2C and which makes use of Users, Applications and Authentication Methods endpoints. | 2024-03-13 | https://github.com/renatogroffe/GraphAPI-Applications-Users-AuthMethods |
 | Example with configurations to validate an Access Token of an application using the Azure API Management <validate-azure-ad-token> policy and a Microsoft Entra ID App Registration. Includes .http script for testing with the VS Code REST Client extension. | 2024-03-13 | https://github.com/renatogroffe/APIM-MicrosoftEntra-ValidateJWT |
+| Example project for counting accesses using Azure Functions (Isolated Process), .NET 8, OpenApi/Swagger and HTTP Trigger. | 2024-03-01 | https://github.com/renatogroffe/DotNet8-AzureFunctions-HttpTrigger-OpenAPI_ContagemAcessos |
 | Example of a Console App created in .NET 8 and using the Microsoft.Identity + Graph API project for testing with logins in Azure AD B2C. | 2024-01-31 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn-GraphAPI |
