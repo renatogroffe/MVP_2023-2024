@@ -2,4 +2,8 @@
 | ------------ | ---- | ---- |
 | Presentation content on OWASP API Security Top 10 held during the March-2024 edition of DevOps Experience. | 2024-03-28 | https://github.com/renatogroffe/OWASPApiTop10_DevOpsExperience-Mar2024 |
 | Examples of new features in .NET 8, ASP.NET Core and C#12. | 2024-03-26 | https://github.com/renatogroffe/DotNet8-2024-03 |
+| Example in .NET 9 of Console Application that makes use of the CryptographicOperations.HashData() method. | 2024-03-08 | https://github.com/renatogroffe/DotNet9-ConsoleApp-CryptographicOperations-HashData |
+| Azure DevOps pipeline for running automated load tests based on the NBomber tool against a REST API. | 2024-03-06 | https://github.com/renatogroffe/AzurePipelines-DotNet8-NBomber-LoadTests_ContagemAcessos |
+| Example of implementation in .NET 8 (Console App) of load testing in a REST API with the NBomber framework, including the generation of HTML reports with the results. | 2024-03-05 | https://github.com/renatogroffe/DotNet8-NBomber-LoadTests-Http-Reporting |
+| Content about .NET8, ASP.NET Core and Azure Functions presented during the .NET Weekend promoted by the DevPira technical community on 03/02/2024. | 2024-03-02 | https://github.com/renatogroffe/DotNet8-DotNetWeekend2024-DevPira |
 | Examples of new features of .NET 8 presented at an event promoted by Vórtx on 11/21/2023. | 2023-11-21 | https://github.com/renatogroffe/DotNet8-Vortx |
