@@ -17,3 +17,5 @@ This article is part of a series on Cloud Architecture, also bringing content (s
 
 
 This content includes free videos that have impacted hundreds of professionals.
+
+Event promoted by the DEVPIRA technical community in the city of Piracicaba-SP, one of the largest user groups in the interior of the state of São Paulo (Brazil).
