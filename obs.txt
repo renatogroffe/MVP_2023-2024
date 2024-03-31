@@ -15,6 +15,7 @@ This article emphasized the use of containerized solutions using Azure Kubernete
 
 This article is part of a series on Cloud Architecture, also bringing content (such as videos) that impacted hundreds of people.
 
+Although I used an example in .NET when preparing this content, the topic covered in this article is valid for Developers of the most different stacks.
 
 This content includes free videos that have impacted hundreds of professionals.
 
