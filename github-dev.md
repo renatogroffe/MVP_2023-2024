@@ -42,5 +42,6 @@
 | Examples of new features of .NET 8 presented at an event promoted by Vórtx on 11/21/2023. | 2023-11-21 | https://github.com/renatogroffe/DotNet8-Vortx |
 | Improvements involving JSON handling in .NET 8. | 2023-11-20 | https://github.com/renatogroffe/DotNet8-JSON |
 | Examples with improvements involving Data Annotations in .NET 8. | 2023-11-19 | https://github.com/renatogroffe/DotNet8-DataAnnotations |
-| Example in .NET 8 of Console Application created with C# 12 and which uses ref readonly parameters. | 2023-11-19 | https://github.com/renatogroffe/CSharp12-RefReadOnlyParameters |
 | Examples of new C# 12 features implemented with .NET 8. | 2023-11-19 | https://github.com/renatogroffe/CSharp12-Exemplos |
+| Example in .NET 8 of Console Application created with C# 12 and which uses ref readonly parameters. | 2023-11-19 | https://github.com/renatogroffe/CSharp12-RefReadOnlyParameters |
+| Example of new features in ASP.NET Core using .NET 8. | 2023-11-16 | https://github.com/renatogroffe/DotNet8-ASPNETCore |
