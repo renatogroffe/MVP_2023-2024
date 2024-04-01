@@ -39,7 +39,7 @@
 | Azure DevOps pipeline for test automation (with Postman + Newman) of a REST API created with .NET 8 + ASP.NET Core and using SQL Server + Entity Framework Core. Includes the generation of HTML and XML (JUnit) reports with test results. | 2023-11-24 | https://github.com/renatogroffe/AzureDevOps-SqlServer-EFCore-Postman-Newman-DotNet8-ASPNETCore_IntegrationTests |
 | Example of a REST API created with .NET 8 + ASP.NET Core for registering and querying support tickets using SQL Server + Entity Framework + scripts. Includes validations with Data Annotations, Dockerfile, Docker Compose for creating test environments and tests in JavaScript with Postman (execution of Collection via Newman). | 2023-11-24 | https://github.com/renatogroffe/ASPNETCore8-REST_API-SqlServer-EFCore-DataAnnotations-Scripts-Postman_ChamadosSuporte |
 | Examples with some of the new features of .NET 8. | 2023-11-21 | https://github.com/renatogroffe/DotNet8-NewFeatures |
+| Examples of new features of .NET 8 presented at an event promoted by Vórtx on 11/21/2023. | 2023-11-21 | https://github.com/renatogroffe/DotNet8-Vortx |
 | Improvements involving JSON handling in .NET 8. | 2023-11-20 | https://github.com/renatogroffe/DotNet8-JSON |
 | Examples with improvements involving Data Annotations in .NET 8. | 2023-11-19 | https://github.com/renatogroffe/DotNet8-DataAnnotations |
-| Examples of new C# 12 features implemented with .NET 8. | 2023-11-15 | https://github.com/renatogroffe/CSharp12-Exemplos |
-| Examples of new features of .NET 8 presented at an event promoted by Vórtx on 11/21/2023. | 2023-11-21 | https://github.com/renatogroffe/DotNet8-Vortx |
+| Examples of new C# 12 features implemented with .NET 8. | 2023-11-19 | https://github.com/renatogroffe/CSharp12-Exemplos |
