@@ -5,4 +5,5 @@
 | Example project for counting accesses using Azure Functions (Isolated Process), .NET 8, OpenApi/Swagger and HTTP Trigger. | 2024-03-01 | https://github.com/renatogroffe/DotNet8-AzureFunctions-HttpTrigger-OpenAPI_ContagemAcessos |
 | Example with scripts for creating containers demonstrating the use of Elastic APM with REST, PostgreSQL, Redis and .NET 8 APIs. | 2024-02-29 | https://github.com/renatogroffe/ElasticAPM-Http-PostgreSQL-Redis-DotNet8-Containers |
 | Example of a Console App created in .NET 8 and using the Microsoft.Identity + Graph API project for testing with logins in Azure AD B2C. | 2024-01-31 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn-GraphAPI |
+| Example of a Console App created in .NET 8 and using the Microsoft.Identity project for testing with logins in Azure AD B2C. | 2024-01-14 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn |
 | Content of presentation on KEDA (Kubernetes Event-Driven Autoscaling) held during the November-2023 edition of DevOps Experience. | 2023-11-30 | https://github.com/renatogroffe/KEDA_DevOpsExperience-Nov2023 |
