@@ -45,3 +45,4 @@
 | Examples of new C# 12 features implemented with .NET 8. | 2023-11-19 | https://github.com/renatogroffe/CSharp12-Exemplos |
 | Example in .NET 8 of Console Application created with C# 12 and which uses ref readonly parameters. | 2023-11-19 | https://github.com/renatogroffe/CSharp12-RefReadOnlyParameters |
 | Example of new features in ASP.NET Core using .NET 8. | 2023-11-16 | https://github.com/renatogroffe/DotNet8-ASPNETCore |
+| Example in .NET 8 of a Console Application created with C# 12 and which makes use of a functionality marked with ExperimentalAttribute. | 2023-11-16 | https://github.com/renatogroffe/CSharp12-ExperimentalAttribute |
