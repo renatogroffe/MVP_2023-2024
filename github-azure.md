@@ -7,3 +7,4 @@
 | Example of a Console App created in .NET 8 and using the Microsoft.Identity + Graph API project for testing with logins in Azure AD B2C. | 2024-01-31 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn-GraphAPI |
 | Example of a Console App created in .NET 8 and using the Microsoft.Identity project for testing with logins in Azure AD B2C. | 2024-01-14 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn |
 | Content of presentation on KEDA (Kubernetes Event-Driven Autoscaling) held during the November-2023 edition of DevOps Experience. | 2023-11-30 | https://github.com/renatogroffe/KEDA_DevOpsExperience-Nov2023 |
+| Example of a REST API based on .NET 8 + MinimalAPIs and which uses Application Insights for monitoring. It includes a Dockerfile, load tests with k6, as well as a Pipeline for automating these tests with Azure DevOps. | 2023-11-16 | https://github.com/renatogroffe/ASPNETCore8-MinimalAPIs-AppInsights-LoadTests_ContagemAcessos |
