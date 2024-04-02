@@ -11,3 +11,4 @@
 | Content of presentation on KEDA (Kubernetes Event-Driven Autoscaling) held during the November-2023 edition of DevOps Experience. | 2023-11-30 | https://github.com/renatogroffe/KEDA_DevOpsExperience-Nov2023 |
 | Example of using KEDA CPU scaler. | 2023-11-29 | https://github.com/renatogroffe/Kubernetes-KEDA-CPU |
 | Example of a REST API based on .NET 8 + MinimalAPIs and which uses Application Insights for monitoring. It includes a Dockerfile, load tests with k6, as well as a Pipeline for automating these tests with Azure DevOps. | 2023-11-16 | https://github.com/renatogroffe/ASPNETCore8-MinimalAPIs-AppInsights-LoadTests_ContagemAcessos |
+| Content of presentation "Don't Start Over, Start Left: Choosing the Right Open Source Component from the Start" held in the September-2023 edition of DevOps Experience. Kubernetes, KEDA, OpenTelemetry, Jaeger... | 2023-09-28 | https://github.com/renatogroffe/ShiftLeftRight_DevOpsExperience-Set2023 |
