@@ -3,7 +3,7 @@ TDC (The Developer's Conference) is one of the biggest technology events in Braz
 TDC Innovation 2023 - Sala Microsoft
 
 
-Lecture held during the November 2023 edition of DevOps Experience (an online event in Brazil). This is one of the biggest online events in Brazil focusing on cloud computing and DevOps.
+Lecture held during the June 2023 edition of DevOps Experience (an online event in Brazil). This is one of the biggest online events in Brazil focusing on cloud computing and DevOps.
 
 ---
 
