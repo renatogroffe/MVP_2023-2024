@@ -1,12 +1,16 @@
 Cloud Conference
-Paytech
 TDC mesa redonda
 TDC KEDA
 TDC OpenTelemetry
 SENAI Microservices
+
 SENAI Certificação
-Containers Night
+
+Build Microsoft 2 sessoes
+
+Alura k6
 .NET Conf jan
 .NET Conf fev
+Paytech
+Containers Night
 Michael Page
-Alura k6
