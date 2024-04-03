@@ -19,7 +19,7 @@
 | Example of consuming messages from an Azure Service Bus topic with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record the data. Includes monitoring via Application Insights. | 2023-09-27 | https://github.com/renatogroffe/DotNet7-WorkerService-AzureServiceBus-Topic-SqlServer-AppInsights_ContagemAcessos |
 | Example of a REST API created with .NET 7 + ASP.NET Core to count accesses and send messages to an Azure Service Bus topic. Includes monitoring configurations using Application Insights. | 2023-09-27 | https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureServiceBusTopic-AppInsights_ContagemAcessos |
 | Scripts for testing a Kafka environment using containers (Zookeeper + Kafka + Kafdrop) and the Tools for Apache Kafka extension from Visual Studio Code. | 2023-10-10 | https://github.com/renatogroffe/DockerCompose-Kafka-VSCode |
-| Example in .NET 8 Release Candidate 1 of Console Application created with C# 12 and which makes use of Interceptors. | 2023-10-09 | https://github.com/renatogroffe/CSharp12-Interceptors-DotNet8_RC1 |
+
 
 
 
