@@ -1,3 +1,4 @@
 | Event | Date | Description | Link | Participants |
 | ------------| ---- | ------------ | ---- | ---- |
+| .NET São Paulo: an overview - Microsoft Reactor Meetup | 2024-03-20 | Presentation detailing activities of the .NET São Paulo community, tips for people interested in maintaining communities and also the work of our user group on various technologies (.NET, C#, ASP.NET Core, Azure, Kubernetes...). | https://github.com/renatogroffe/Meetup-MicrosoftReactor-2024-03 | 55 |
 | Build 2023 and .NET: main news... C#, ASP.NET Core and much more - TDC Innovation 2023 | 2023-06-14 | Lecture covering covering Microsoft Build 2023 announcements.<br/>Presentation held at the Microsoft Room, during the TDC Innovation 2023 (an online event in Brazil).<br/>Technologies covered: .NET, ASP.NET Core, Visual Studio 2022, Visual Studio Code, GitHub Copilot, OpenAI | https://github.com/DotNetSP/Talk-Build2023-DotNet-TDC_Innovation2023 | 61 |
