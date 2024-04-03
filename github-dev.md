@@ -55,7 +55,7 @@
 | Example in .NET 8 of a REST API that uses dependency injection with the KeyedServices mechanism. | 2023-10-23 | https://github.com/renatogroffe/ASPNETCore8-RESTAPI-DI |
 | New features  of .NET 8 with examples based on Release Candidate 2 | 2023-10-23 | https://github.com/renatogroffe/DotNet8-RC2 |
 | Example in .NET 8 of Console Application that uses CompositeFormat to format strings. | 2023-10-20 | https://github.com/renatogroffe/DotNet8-ConsoleApp-CompositeFormat |
-
+| Example in .NET 8 of Console Application that uses FrozenDictionary to create immutable key-value sets. | 2023-10-16 | https://github.com/renatogroffe/DotNet8-ConsoleApp-FrozenDictionary |
 
 
 
