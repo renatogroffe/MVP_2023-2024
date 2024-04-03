@@ -57,8 +57,7 @@
 | Example in .NET 8 of Console Application that uses CompositeFormat to format strings. | 2023-10-20 | https://github.com/renatogroffe/DotNet8-ConsoleApp-CompositeFormat |
 | Example in .NET 8 of Console Application that uses FrozenDictionary to create immutable key-value sets. | 2023-10-16 | https://github.com/renatogroffe/DotNet8-ConsoleApp-FrozenDictionary |
 | Example of implementing a Worker Service in .NET 8 using the IHostedLifecycleService interface. | 2023-10-15 | https://github.com/renatogroffe/DotNet8-WorkerService-IHostedLifecycleService |
-
-
+| Example of implementing a Worker Service in .NET 7 using the IHostedService interface. | 2023-10-15 | https://github.com/renatogroffe/DotNet7-WorkerService-IHostedService |
 
 
 | Content about load testing with k6 related to my presentation during the August-2023 edition of DevOps Experience. | 2023-08-31 | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 |
