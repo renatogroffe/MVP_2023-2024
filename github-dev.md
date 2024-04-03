@@ -59,5 +59,9 @@
 | Example of implementing a Worker Service in .NET 8 using the IHostedLifecycleService interface. | 2023-10-15 | https://github.com/renatogroffe/DotNet8-WorkerService-IHostedLifecycleService |
 | Example of implementing a Worker Service in .NET 7 using the IHostedService interface. | 2023-10-15 | https://github.com/renatogroffe/DotNet7-WorkerService-IHostedService |
 | Example in .NET 8 Release Candidate 1 of Console Application created with C# 12 and which makes use of Interceptors. | 2023-10-09 | https://github.com/renatogroffe/CSharp12-Interceptors-DotNet8_RC1 |
+| Example in .NET 8 of Console Application that makes use of the ability to serialize non-public members (private, protected, internal) into types. | 2023-10-06 | https://github.com/renatogroffe/DotNet8-ConsoleApp-SerializationNonPublic |
+
+
+
 
 | Content about load testing with k6 related to my presentation during the August-2023 edition of DevOps Experience. | 2023-08-31 | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 |
