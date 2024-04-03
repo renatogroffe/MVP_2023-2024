@@ -14,4 +14,5 @@
 | Example of implementing and using MFA with Azure AD B2C presented during Cloud Conference Day. | 2023-11-11 | https://github.com/renatogroffe/MFA-ADB2C_CloudConference-2023-11 |
 | REST API created with .NET 7 + ASP.NET Core used in simulating metrics for tests with KEDA (Kubernetes Event-Driven Autoscaling). | 2023-11-09 | https://github.com/renatogroffe/ASPNETCore7-RESTAPI-Metrics_Simulation |
 | Examples using the Cron and Metrics API scalers in KEDA. | 2023-11-09 | https://github.com/renatogroffe/KEDA_2023-11 |
+| Example of using the MetricsAPI scaler with KEDA (Kubernetes Event-Driven Autoscaling). | 2023-10-25 | https://github.com/renatogroffe/KEDA-MetricsAPI |
 | Content of presentation "Don't Start Over, Start Left: Choosing the Right Open Source Component from the Start" held in the September-2023 edition of DevOps Experience. Kubernetes, KEDA, OpenTelemetry, Jaeger... | 2023-09-28 | https://github.com/renatogroffe/ShiftLeftRight_DevOpsExperience-Set2023 |
