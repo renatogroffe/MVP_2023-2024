@@ -46,4 +46,5 @@
 | Example in .NET 8 of Console Application created with C# 12 and which uses ref readonly parameters. | 2023-11-19 | https://github.com/renatogroffe/CSharp12-RefReadOnlyParameters |
 | Example of new features in ASP.NET Core using .NET 8. | 2023-11-16 | https://github.com/renatogroffe/DotNet8-ASPNETCore |
 | Example in .NET 8 of a Console Application created with C# 12 and which makes use of a functionality marked with ExperimentalAttribute. | 2023-11-16 | https://github.com/renatogroffe/CSharp12-ExperimentalAttribute |
+| Examples of implementing and using k6 for load testing a REST API presented during Cloud Conference Day. | 2023-11-10 | https://github.com/renatogroffe/k6-LoadTests_CloudConference-2023-11 |
 | Content about load testing with k6 related to my presentation during the August-2023 edition of DevOps Experience. | 2023-08-31 | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 |
