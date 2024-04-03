@@ -52,4 +52,6 @@
 | Example in .NET 8 of Console Application that demonstrates the JSON serialization of objects using the snake_case and kebab-case formats. | 2023-10-31 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Serialization-Snake-Kebab |
 | Example in .NET 8 of Console Application that demonstrates the serialization of structures considering a hierarchy of interfaces. | 2023-10-30 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Serialization-InterfaceHierarchies |
 | Example in .NET 8 of Console Application that makes use of the MinimumIsExclusive and MaximumIsExclusive properties to validate ranges with RangeAttribute. | 2023-10-28 | https://github.com/renatogroffe/DotNet8-ConsoleApp-MinimumMaximumExclusive |
+| Example in .NET 8 of a REST API that uses dependency injection with the KeyedServices mechanism. | 2023-10-23 | https://github.com/renatogroffe/ASPNETCore8-RESTAPI-DI |
+| New features  of .NET 8 with examples based on Release Candidate 2 | 2023-10-23 | https://github.com/renatogroffe/DotNet8-RC2 |
 | Content about load testing with k6 related to my presentation during the August-2023 edition of DevOps Experience. | 2023-08-31 | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 |
