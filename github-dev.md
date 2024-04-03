@@ -47,4 +47,9 @@
 | Example of new features in ASP.NET Core using .NET 8. | 2023-11-16 | https://github.com/renatogroffe/DotNet8-ASPNETCore |
 | Example in .NET 8 of a Console Application created with C# 12 and which makes use of a functionality marked with ExperimentalAttribute. | 2023-11-16 | https://github.com/renatogroffe/CSharp12-ExperimentalAttribute |
 | Examples of implementing and using k6 for load testing a REST API presented during Cloud Conference Day. | 2023-11-10 | https://github.com/renatogroffe/k6-LoadTests_CloudConference-2023-11 |
+| Examples of implementing Back-End solutions with .NET 7 + ASP.NET Core. | 2023-11-08 | https://github.com/renatogroffe/DotNet7-APIs_2023-11 |
+| Example in .NET 8 of Console Application that uses the FrozenSet type to create immutable collections. | 2023-11-02 | https://github.com/renatogroffe/DotNet8-ConsoleApp-FrozenSet |
+| Example in .NET 8 of Console Application that demonstrates the JSON serialization of objects using the snake_case and kebab-case formats. | 2023-10-31 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Serialization-Snake-Kebab |
+| Example in .NET 8 of Console Application that demonstrates the serialization of structures considering a hierarchy of interfaces. | 2023-10-30 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Serialization-InterfaceHierarchies |
+| Example in .NET 8 of Console Application that makes use of the MinimumIsExclusive and MaximumIsExclusive properties to validate ranges with RangeAttribute. | 2023-10-28 | https://github.com/renatogroffe/DotNet8-ConsoleApp-MinimumMaximumExclusive |
 | Content about load testing with k6 related to my presentation during the August-2023 edition of DevOps Experience. | 2023-08-31 | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 |
