@@ -12,4 +12,6 @@
 | Example of using KEDA CPU scaler. | 2023-11-29 | https://github.com/renatogroffe/Kubernetes-KEDA-CPU |
 | Example of a REST API based on .NET 8 + MinimalAPIs and which uses Application Insights for monitoring. It includes a Dockerfile, load tests with k6, as well as a Pipeline for automating these tests with Azure DevOps. | 2023-11-16 | https://github.com/renatogroffe/ASPNETCore8-MinimalAPIs-AppInsights-LoadTests_ContagemAcessos |
 | Example of implementing and using MFA with Azure AD B2C presented during Cloud Conference Day. | 2023-11-11 | https://github.com/renatogroffe/MFA-ADB2C_CloudConference-2023-11 |
+| REST API created with .NET 7 + ASP.NET Core used in simulating metrics for tests with KEDA (Kubernetes Event-Driven Autoscaling). | 2023-11-09 | https://github.com/renatogroffe/ASPNETCore7-RESTAPI-Metrics_Simulation |
+| Examples using the Cron and Metrics API scalers in KEDA. | 2023-11-09 | https://github.com/renatogroffe/KEDA_2023-11 |
 | Content of presentation "Don't Start Over, Start Left: Choosing the Right Open Source Component from the Start" held in the September-2023 edition of DevOps Experience. Kubernetes, KEDA, OpenTelemetry, Jaeger... | 2023-09-28 | https://github.com/renatogroffe/ShiftLeftRight_DevOpsExperience-Set2023 |
