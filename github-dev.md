@@ -56,6 +56,7 @@
 | New features  of .NET 8 with examples based on Release Candidate 2 | 2023-10-23 | https://github.com/renatogroffe/DotNet8-RC2 |
 | Example in .NET 8 of Console Application that uses CompositeFormat to format strings. | 2023-10-20 | https://github.com/renatogroffe/DotNet8-ConsoleApp-CompositeFormat |
 | Example in .NET 8 of Console Application that uses FrozenDictionary to create immutable key-value sets. | 2023-10-16 | https://github.com/renatogroffe/DotNet8-ConsoleApp-FrozenDictionary |
+| Example of implementing a Worker Service in .NET 8 using the IHostedLifecycleService interface. | 2023-10-15 | https://github.com/renatogroffe/DotNet8-WorkerService-IHostedLifecycleService |
 
 
 
