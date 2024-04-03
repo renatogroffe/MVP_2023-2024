@@ -9,3 +9,4 @@ Containers Night
 .NET Conf jan
 .NET Conf fev
 Michael Page
+Alura k6
