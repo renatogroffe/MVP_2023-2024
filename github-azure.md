@@ -16,4 +16,8 @@
 | Examples using the Cron and Metrics API scalers in KEDA. | 2023-11-09 | https://github.com/renatogroffe/KEDA_2023-11 |
 | Example of using the MetricsAPI scaler with KEDA (Kubernetes Event-Driven Autoscaling). | 2023-10-25 | https://github.com/renatogroffe/KEDA-MetricsAPI |
 | Content of presentation "Don't Start Over, Start Left: Choosing the Right Open Source Component from the Start" held in the September-2023 edition of DevOps Experience. Kubernetes, KEDA, OpenTelemetry, Jaeger... | 2023-09-28 | https://github.com/renatogroffe/ShiftLeftRight_DevOpsExperience-Set2023 |
+| Example of consuming messages from an Azure Service Bus topic with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record the data. Includes monitoring via Application Insights. | 2023-09-27 | https://github.com/renatogroffe/DotNet7-WorkerService-AzureServiceBus-Topic-SqlServer-AppInsights_ContagemAcessos |
+
+
+
 | Example of using KEDA (Kubernetes Event-driven Autoscaling) presented on 06/24/2023 during Cloud Weekend in Piracicaba-SP. | 2023-06-24 | https://github.com/renatogroffe/KEDA_CloudWeekend-Jun2023 |
