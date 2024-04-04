@@ -67,3 +67,4 @@
 
 
 | Content about load testing with k6 related to my presentation during the August-2023 edition of DevOps Experience. | 2023-08-31 | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 |
+| Example of implementing load tests (REST API protected by JWT) in JavaScript for execution with the k6 tool, including generating reports with results through the k6-reporter project and also exporting to JMeter (.xml file). This repository also includes an Azure DevOps Pipeline. | 2023-08-31 | https://github.com/renatogroffe/k6-LoadTests-Reports-JUnit-JWT-AzureDevOps_ContagemAcessos |
