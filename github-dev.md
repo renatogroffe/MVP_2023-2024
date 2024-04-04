@@ -65,6 +65,8 @@
 | Azure DevOps pipeline executing performance tests in .NET 7 using the BenchmarkDotNet library, with a comparison between the Dapper and Entity Framework frameworks recording information in a SQL Server base. | 2023-09-25 | https://github.com/renatogroffe/AzureDevOps-DotNet7-SqlServer-BenchmarkDotNet-Dapper-EFCore_Performance |
 | Example of implementation in .NET 7 (Console App) of benchmarking with tests comparing the performance of Dapper and Entity Framework Core in data inclusions in SQL Server, involving a one-to-many relationship (Company and Contacts). The comparisons were generated using the BenchmarkDotNet package. | 2023-09-25 | https://github.com/renatogroffe/DotNet7-BenchmarkDotNet-Tests-InputData-SqlServer-Dapper-EFCore |
 | Example in .NET 8 of Console Application that uses the Base64StringAttribute type to validate whether a string associated with a property of a class is a valid base64 value. | 2023-09-24 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Base64StringAttribute |
+| Examples using OpenTelemetry and Jaeger presented in a lecture on the .NET Architecture track at TDC Business 2023. | 2023-09-19 | https://github.com/renatogroffe/Tracing-TDCBusiness2023 |
+| Example of consuming messages from an Apache Kafka topic with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record the data. Includes the implementation of distributed tracing using OpenTelemetry and Jaeger + a Dockerfile for generating Linux-based images. | 2023-09-19 | https://github.com/renatogroffe/DotNet7-WorkerService-ApacheKafka-SqlServer-OpenTelemetry-Jaeger_ContagemAcessos |
 
 
 

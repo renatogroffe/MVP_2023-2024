@@ -7,7 +7,7 @@ https://github.com/renatogroffe/KEDA-TDCBusiness2023
 
 
 TDC OpenTelemetry
-
+https://github.com/renatogroffe/Tracing-TDCBusiness2023
 
 
 SENAI Microservices
