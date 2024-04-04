@@ -20,9 +20,13 @@
 | Example of REST API created with ASP.NET Core + .NET 7 for encryption and decryption testing using Keys from Azure Key Vault. | 2023-10-02 | https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureKeyVault-Keys_Encrypt-Decrypt |
 | Content of presentation "Don't Start Over, Start Left: Choosing the Right Open Source Component from the Start" held in the September-2023 edition of DevOps Experience. Kubernetes, KEDA, OpenTelemetry, Jaeger... | 2023-09-28 | https://github.com/renatogroffe/ShiftLeftRight_DevOpsExperience-Set2023 |
 | Example of implementing a serverless application monitoring changes in a foreign currency quote table with .NET 7 + Azure Functions + Isolated Process + SQL Trigger + Azure SQL/SQL Server (Change Retention + Change Tracking + Queries with Input). It also includes sending the information to an Azure Queue Storage Queue. | 2023-09-28 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-SqlTrigger-Input-AzureQueue_ChangeTrackingMoedas |
+| Objects for Deployment of a Worker Service (access count) in Kubernetes using KEDA, Helm, Azure Service Bus (Queue) and a Worker created in .NET 7. | 2023-09-27 | https://github.com/renatogroffe/Kubernetes-KEDA-ServiceBusTopic_ContagemAcessos |
+
 
 | Example of consuming messages from an Azure Service Bus topic with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record the data. Includes monitoring via Application Insights. | 2023-09-27 | https://github.com/renatogroffe/DotNet7-WorkerService-AzureServiceBus-Topic-SqlServer-AppInsights_ContagemAcessos |
 | Example of a REST API created with .NET 7 + ASP.NET Core to count accesses and send messages to an Azure Service Bus topic. Includes monitoring configurations using Application Insights. | 2023-09-27 | https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureServiceBusTopic-AppInsights_ContagemAcessos |
+
+
 | Example of a Console App created in .NET 7 and using the Microsoft.Identity project for testing with logins in Azure AD B2C. | 2023-09-02 | https://github.com/renatogroffe/DotNet7-ConsoleApp-ADB2C-SignIn |
 
 
