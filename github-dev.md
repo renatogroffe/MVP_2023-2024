@@ -78,6 +78,10 @@
 | Content about load testing with k6 related to my presentation during the August-2023 edition of DevOps Experience. | 2023-08-31 | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 |
 | Example of implementing load tests (REST API protected by JWT) in JavaScript for execution with the k6 tool, including generating reports with results through the k6-reporter project and also exporting to JMeter (.xml file). This repository also includes an Azure DevOps Pipeline. | 2023-08-31 | https://github.com/renatogroffe/k6-LoadTests-Reports-JUnit-JWT-AzureDevOps_ContagemAcessos |
 | Example of REST API for counting accesses created with .NET 7 + ASP.NET Core + Swagger/OpenAPI, with extensions for using JWT (JSON Web Tokens, with request in the format application/x-www-form-urlencoded), Dockerfile, monitoring via AppInsights and failure simulation by activating the flag. Includes files for testing from VS Code. | 2023-08-29 | https://github.com/renatogroffe/ASPNETCore7-JWT_FormUrlEncoded-AppInsights-Swagger-Extensions-HttpFiles_ContagemAcessos |
+| Azure DevOps pipeline for test automation (with Postman + Newman) of a REST API created with .NET 7 + ASP.NET Core and using SQL Server + Scripts to create SQL Server structures. Includes the generation of HTML and XML (JUnit) reports with test results. | 2023-08-29 | https://github.com/renatogroffe/AzureDevOps-SqlServer-SqlScripts-Postman-Newman-DotNet7-ASPNETCore_IntegrationTests |
+| Example of REST API created with .NET 7 + ASP.NET Core for registering and querying support tickets using SQL Server + Entity Framework + Migrations (configurations). Includes validations with Data Annotations, Dockerfile, Docker Compose for creating test environments and tests in JavaScript with Postman (execution of Collection via Newman). | 2023-08-29 | https://github.com/renatogroffe/ASPNETCore7-REST_API-SqlServer-EFCore-DataAnnotations-Migrations-Postman_ChamadosSuporte |
+
+
 
 
 
