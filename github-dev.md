@@ -84,6 +84,7 @@
 | Example in .NET 8 Preview 7 of Console Application created with C# 12 and which uses Inline Array. | 2023-08-25 | https://github.com/renatogroffe/CSharp12-InlineArrays |
 | Examples of implementing Health Checks in .NET 7. | 2023-08-24 | https://github.com/renatogroffe/HealthChecks_Sharebook |
 | Example of website implemented in .NET 7 + ASP.NET Core for monitoring database instances using Health Checks from the Xabaril project. | 2023-08-24 | https://github.com/renatogroffe/ASPNETCore7-Xabaril-SqlServer-Postgres-MongoDB-Redis_HealthChecks |
+| Examples with new features from .NET 8 and C# 12 presented live on 08/21/2023. | 2023-08-21 | https://github.com/renatogroffe/CSharp12-DotNet8_2023-08 |
 
 
 
