@@ -73,6 +73,7 @@
 | Example of a REST API created with .NET 7 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry + Apache Kafka, also including a Dockerfile for generating Linux-based images. | 2023-09-14 | https://github.com/renatogroffe/ASPNETCore7-DistributedTracing-OpenTelemetry-Jaeger-Kafka_APIContagem |
 | Example of a REST API created with .NET 7 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry + Redis, also including a Dockerfile for generating Linux-based images. | 2023-09-13 | https://github.com/renatogroffe/ASPNETCore7-DistributedTracing-OpenTelemetry-Jaeger-Redis_APIContagem |
 | Command-line tool implemented in .NET 7 and which provides templates for creating projects based on REST APIs in .NET and using endpoint versioning | 2023-09-08 | https://github.com/renatogroffe/DotNetApiVersioningTemplates |
+| Example of a Console App created in .NET 7 and which makes use of SQL Server, the Bogus library (fake data generation) and the LinqToDB project for loading company data. It also includes a Docker Compose for creating the database, in addition to the Sharprompt and ConsoleTools packages to control the application's inputs and outputs. | 2023-09-04 | https://github.com/renatogroffe/DotNet7-ConsoleApp-SqlServer-LinqToDB_CargaEmpresas |
 
 
 
