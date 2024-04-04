@@ -26,6 +26,10 @@
 | Examples using the KEDA (Kubernetes Event-driven Autoscaling) project in the Microservices track of TDC Business 2023. | 2023-09-21 | https://github.com/renatogroffe/KEDA-TDCBusiness2023 |
 | Example of a Console App created in .NET 7 and using the Microsoft.Identity project for testing with logins in Azure AD B2C. | 2023-09-02 | https://github.com/renatogroffe/DotNet7-ConsoleApp-ADB2C-SignIn |
 | Example of Console Application in .NET 7 for translation testing with Azure Text Translation. The HttpClient class was used, in addition to the Newtonsoft, ConsoleTools and Sharprompt libraries. | 2023-08-28 | https://github.com/renatogroffe/DotNet7-ConsoleApp-AzureTextTranslation-HttpClient |
+| Example Console Application in .NET 7 for translation testing with Azure Text Translation. The Azure.AI.Translation.Text SDK was used, in addition to the ConsoleTools and Sharprompt libraries. | 2023-08-28 | https://github.com/renatogroffe/DotNet7-ConsoleApp-AzureTextTranslation_SDK-HttpClient |
+
+
+
 
 
 | Example of using KEDA (Kubernetes Event-driven Autoscaling) presented on 06/24/2023 during Cloud Weekend in Piracicaba-SP. | 2023-06-24 | https://github.com/renatogroffe/KEDA_CloudWeekend-Jun2023 |
