@@ -19,8 +19,6 @@
 | Example of REST API created with ASP.NET Core + .NET 7 for encryption and decryption testing using Keys from Azure Key Vault. Authentication occurs through the use of the ClientSecretCredential class. | 2023-10-02 | https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureKeyVault-Keys-ClientSecretCredential_Encrypt-Decrypt |
 | Example of REST API created with ASP.NET Core + .NET 7 for encryption and decryption testing using Keys from Azure Key Vault. | 2023-10-02 | https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureKeyVault-Keys_Encrypt-Decrypt |
 
-
-
 | Content of presentation "Don't Start Over, Start Left: Choosing the Right Open Source Component from the Start" held in the September-2023 edition of DevOps Experience. Kubernetes, KEDA, OpenTelemetry, Jaeger... | 2023-09-28 | https://github.com/renatogroffe/ShiftLeftRight_DevOpsExperience-Set2023 |
 | Example of consuming messages from an Azure Service Bus topic with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record the data. Includes monitoring via Application Insights. | 2023-09-27 | https://github.com/renatogroffe/DotNet7-WorkerService-AzureServiceBus-Topic-SqlServer-AppInsights_ContagemAcessos |
 | Example of a REST API created with .NET 7 + ASP.NET Core to count accesses and send messages to an Azure Service Bus topic. Includes monitoring configurations using Application Insights. | 2023-09-27 | https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureServiceBusTopic-AppInsights_ContagemAcessos |
