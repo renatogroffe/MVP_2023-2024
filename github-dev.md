@@ -60,6 +60,8 @@
 | Example of implementing a Worker Service in .NET 7 using the IHostedService interface. | 2023-10-15 | https://github.com/renatogroffe/DotNet7-WorkerService-IHostedService |
 | Example in .NET 8 Release Candidate 1 of Console Application created with C# 12 and which makes use of Interceptors. | 2023-10-09 | https://github.com/renatogroffe/CSharp12-Interceptors-DotNet8_RC1 |
 | Example in .NET 8 of Console Application that makes use of the ability to serialize non-public members (private, protected, internal) into types. | 2023-10-06 | https://github.com/renatogroffe/DotNet8-ConsoleApp-SerializationNonPublic |
+| Example in .NET 8 of Console Application that uses the LengthAttribute attribute to validate the minimum and maximum sizes of strings and collections. | 2023-10-02 | https://github.com/renatogroffe/DotNet8-ConsoleApp-LengthAttribute |
+| Example in .NET 8 Release Candidate 1 of Console Application created with C# 12 and which makes use of Collection expressions. | 2023-09-30 | https://github.com/renatogroffe/CSharp12-CollectionExpressions |
 
 
 
