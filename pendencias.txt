@@ -1,7 +1,15 @@
 Cloud Conference
+
+
 TDC mesa redonda
 TDC KEDA
+https://github.com/renatogroffe/KEDA-TDCBusiness2023
+
+
 TDC OpenTelemetry
+
+
+
 SENAI Microservices
 
 SENAI Certificação
