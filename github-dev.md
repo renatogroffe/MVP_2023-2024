@@ -75,13 +75,10 @@
 | Command-line tool implemented in .NET 7 and which provides templates for creating projects based on REST APIs in .NET and using endpoint versioning | 2023-09-08 | https://github.com/renatogroffe/DotNetApiVersioningTemplates |
 | Example of a Console App created in .NET 7 and which makes use of SQL Server, the Bogus library (fake data generation) and the LinqToDB project for loading company data. It also includes a Docker Compose for creating the database, in addition to the Sharprompt and ConsoleTools packages to control the application's inputs and outputs. | 2023-09-04 | https://github.com/renatogroffe/DotNet7-ConsoleApp-SqlServer-LinqToDB_CargaEmpresas |
 | Example of a Console App created in .NET 7 and which makes use of PostgreSQL, the Bogus library (fake data generation) and the LinqToDB project for loading company data. It also includes a Docker Compose for creating the database, in addition to the Sharprompt and ConsoleTools packages to control the application's inputs and outputs. | 2023-09-04 | https://github.com/renatogroffe/DotNet7-ConsoleApp-PostgreSQL-LinqToDB_CargaEmpresas |
-
-
-
-
-
 | Content about load testing with k6 related to my presentation during the August-2023 edition of DevOps Experience. | 2023-08-31 | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 |
 | Example of implementing load tests (REST API protected by JWT) in JavaScript for execution with the k6 tool, including generating reports with results through the k6-reporter project and also exporting to JMeter (.xml file). This repository also includes an Azure DevOps Pipeline. | 2023-08-31 | https://github.com/renatogroffe/k6-LoadTests-Reports-JUnit-JWT-AzureDevOps_ContagemAcessos |
+| Example of REST API for counting accesses created with .NET 7 + ASP.NET Core + Swagger/OpenAPI, with extensions for using JWT (JSON Web Tokens, with request in the format application/x-www-form-urlencoded), Dockerfile, monitoring via AppInsights and failure simulation by activating the flag. Includes files for testing from VS Code. | 2023-08-29 | https://github.com/renatogroffe/ASPNETCore7-JWT_FormUrlEncoded-AppInsights-Swagger-Extensions-HttpFiles_ContagemAcessos |
+
 
 
 | Azure DevOps pipeline for test automation (with Postman + Newman) of a REST API created with .NET 7 + ASP.NET Core and using SQL Server + Entity Framework Core Migrations. Includes the generation of HTML and XML (JUnit) reports with test results. | 2023-06-26 | https://github.com/renatogroffe/AzureDevOps-SqlServer-EFCoreMigrations-Postman-Newman-DotNet7-ASPNETCore_IntegrationTests |
