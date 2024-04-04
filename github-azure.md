@@ -24,11 +24,8 @@
 | Example of consuming messages from an Azure Service Bus topic with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record the data. Includes monitoring via Application Insights. | 2023-09-27 | https://github.com/renatogroffe/DotNet7-WorkerService-AzureServiceBus-Topic-SqlServer-AppInsights_ContagemAcessos |
 | Example of a REST API created with .NET 7 + ASP.NET Core to count accesses and send messages to an Azure Service Bus topic. Includes monitoring configurations using Application Insights. | 2023-09-27 | https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureServiceBusTopic-AppInsights_ContagemAcessos |
 | Examples using the KEDA (Kubernetes Event-driven Autoscaling) project in the Microservices track of TDC Business 2023. | 2023-09-21 | https://github.com/renatogroffe/KEDA-TDCBusiness2023 |
-
-
-
 | Example of a Console App created in .NET 7 and using the Microsoft.Identity project for testing with logins in Azure AD B2C. | 2023-09-02 | https://github.com/renatogroffe/DotNet7-ConsoleApp-ADB2C-SignIn |
-
+| Example of Console Application in .NET 7 for translation testing with Azure Text Translation. The HttpClient class was used, in addition to the Newtonsoft, ConsoleTools and Sharprompt libraries. | 2023-08-28 | https://github.com/renatogroffe/DotNet7-ConsoleApp-AzureTextTranslation-HttpClient |
 
 
 | Example of using KEDA (Kubernetes Event-driven Autoscaling) presented on 06/24/2023 during Cloud Weekend in Piracicaba-SP. | 2023-06-24 | https://github.com/renatogroffe/KEDA_CloudWeekend-Jun2023 |
