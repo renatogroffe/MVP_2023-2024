@@ -83,6 +83,9 @@
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core + Minimal APIs, using extensions defined in a Class Library to use JWT (JSON Web Tokens) and configurations for Swagger to support tokens. Includes .http file for testing from Visual Studio Code. | 2023-08-28 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-JWT-Swagger-Extensions-HttpFiles_ContagemAcessos |
 | Example in .NET 8 Preview 7 of Console Application created with C# 12 and which uses Inline Array. | 2023-08-25 | https://github.com/renatogroffe/CSharp12-InlineArrays |
 | Examples of implementing Health Checks in .NET 7. | 2023-08-24 | https://github.com/renatogroffe/HealthChecks_Sharebook |
+| Example of website implemented in .NET 7 + ASP.NET Core for monitoring database instances using Health Checks from the Xabaril project. | 2023-08-24 | https://github.com/renatogroffe/ASPNETCore7-Xabaril-SqlServer-Postgres-MongoDB-Redis_HealthChecks |
+
+
 
 
 
