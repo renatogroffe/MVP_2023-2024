@@ -68,6 +68,7 @@
 | Examples using OpenTelemetry and Jaeger presented in a lecture on the .NET Architecture track at TDC Business 2023. | 2023-09-19 | https://github.com/renatogroffe/Tracing-TDCBusiness2023 |
 | Example of consuming messages from an Apache Kafka topic with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record the data. Includes the implementation of distributed tracing using OpenTelemetry and Jaeger + a Dockerfile for generating Linux-based images. | 2023-09-19 | https://github.com/renatogroffe/DotNet7-WorkerService-ApacheKafka-SqlServer-OpenTelemetry-Jaeger_ContagemAcessos |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core + OperationFilter (Swagger/OpenApi) and which makes use of the AspNetCoreRateLimit project for Rate Limit tests (with a Subscription/Client Id Header). Includes tests in a .http file. | 2023-09-18 | https://github.com/renatogroffe/ASPNETCore7-REST_API-RateLimitMiddleware-ClientId_ContagemAcessos |
+| Examples of new .NET 8 and C# 12 features presented during live to the Sharebook community. | 2023-09-15 | https://github.com/renatogroffe/DotNet8-RC1_Sharebook |
 
 
 
