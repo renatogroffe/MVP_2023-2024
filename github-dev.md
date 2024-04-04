@@ -62,6 +62,9 @@
 | Example in .NET 8 of Console Application that makes use of the ability to serialize non-public members (private, protected, internal) into types. | 2023-10-06 | https://github.com/renatogroffe/DotNet8-ConsoleApp-SerializationNonPublic |
 | Example in .NET 8 of Console Application that uses the LengthAttribute attribute to validate the minimum and maximum sizes of strings and collections. | 2023-10-02 | https://github.com/renatogroffe/DotNet8-ConsoleApp-LengthAttribute |
 | Example in .NET 8 Release Candidate 1 of Console Application created with C# 12 and which makes use of Collection expressions. | 2023-09-30 | https://github.com/renatogroffe/CSharp12-CollectionExpressions |
+| Azure DevOps pipeline executing performance tests in .NET 7 using the BenchmarkDotNet library, with a comparison between the Dapper and Entity Framework frameworks recording information in a SQL Server base. | 2023-09-25 | https://github.com/renatogroffe/AzureDevOps-DotNet7-SqlServer-BenchmarkDotNet-Dapper-EFCore_Performance |
+| Example of implementation in .NET 7 (Console App) of benchmarking with tests comparing the performance of Dapper and Entity Framework Core in data inclusions in SQL Server, involving a one-to-many relationship (Company and Contacts). The comparisons were generated using the BenchmarkDotNet package. | 2023-09-25 | https://github.com/renatogroffe/DotNet7-BenchmarkDotNet-Tests-InputData-SqlServer-Dapper-EFCore |
+| Example in .NET 8 of Console Application that uses the Base64StringAttribute type to validate whether a string associated with a property of a class is a valid base64 value. | 2023-09-24 | https://github.com/renatogroffe/DotNet8-ConsoleApp-Base64StringAttribute |
 
 
 
