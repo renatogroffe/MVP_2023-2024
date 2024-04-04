@@ -81,7 +81,7 @@
 | Azure DevOps pipeline for test automation (with Postman + Newman) of a REST API created with .NET 7 + ASP.NET Core and using SQL Server + Scripts to create SQL Server structures. Includes the generation of HTML and XML (JUnit) reports with test results. | 2023-08-29 | https://github.com/renatogroffe/AzureDevOps-SqlServer-SqlScripts-Postman-Newman-DotNet7-ASPNETCore_IntegrationTests |
 | Example of REST API created with .NET 7 + ASP.NET Core for registering and querying support tickets using SQL Server + Entity Framework + Migrations (configurations). Includes validations with Data Annotations, Dockerfile, Docker Compose for creating test environments and tests in JavaScript with Postman (execution of Collection via Newman). | 2023-08-29 | https://github.com/renatogroffe/ASPNETCore7-REST_API-SqlServer-EFCore-DataAnnotations-Migrations-Postman_ChamadosSuporte |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core + Minimal APIs, using extensions defined in a Class Library to use JWT (JSON Web Tokens) and configurations for Swagger to support tokens. Includes .http file for testing from Visual Studio Code. | 2023-08-28 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-JWT-Swagger-Extensions-HttpFiles_ContagemAcessos |
-
+| Example in .NET 8 Preview 7 of Console Application created with C# 12 and which uses Inline Array. | 2023-08-25 | https://github.com/renatogroffe/CSharp12-InlineArrays |
 
 
 
