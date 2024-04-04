@@ -71,6 +71,7 @@
 | Examples of new .NET 8 and C# 12 features presented during live to the Sharebook community. | 2023-09-15 | https://github.com/renatogroffe/DotNet8-RC1_Sharebook |
 | Example of a REST API created with .NET 7 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry + HTTP Instrumentation, also including a Dockerfile for generating Linux-based images | 2023-09-14 | https://github.com/renatogroffe/ASPNETCore7-DistributedTracing-OpenTelemetry-HttpInstrumentation_APIOrquestracao |
 | Example of a REST API created with .NET 7 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry + Apache Kafka, also including a Dockerfile for generating Linux-based images. | 2023-09-14 | https://github.com/renatogroffe/ASPNETCore7-DistributedTracing-OpenTelemetry-Jaeger-Kafka_APIContagem |
+| Example of a REST API created with .NET 7 + ASP.NET Core and using Distributed Tracing with Jaeger + OpenTelemetry + Redis, also including a Dockerfile for generating Linux-based images. | 2023-09-13 | https://github.com/renatogroffe/ASPNETCore7-DistributedTracing-OpenTelemetry-Jaeger-Redis_APIContagem |
 
 
 
