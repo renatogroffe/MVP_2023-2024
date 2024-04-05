@@ -111,7 +111,7 @@
 
 
 
-
+| Example of implementing a REST API for querying Regions/States of Brazil in .NET 7 + ASP.NET Core and using Dapper, Entity Framework Core, MySQL and monitoring interactions in the database with MiniProfiler. | 2023-04-12 | https://github.com/renatogroffe/ASPNETCore7-Dapper-EFCore-MySql-MiniProfiler_RegioesEstados |
 | Example of implementing a REST API for querying Regions/States of Brazil in .NET 7 + ASP.NET Core and using Dapper, Entity Framework Core, SQL Server and monitoring interactions in the database with MiniProfiler | 2023-04-12 | https://github.com/renatogroffe/ASPNETCore7-Dapper-EFCore-SqlServer-MiniProfiler_RegioesEstados |
 | Example of a REST API created with .NET 7 + ASP.NET Core to count accesses by sending messages to a RabbitMQ queue. Includes use of Azure Application Insights for monitoring (via Connection String). | 2023-04-10 | https://github.com/renatogroffe/ASPNETCore7-REST_API-AppInsights-RabbitMQ_ContagemAcessos |
 | Example of message consumption from a RabbitMQ queue with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record data and a Dockerfile to generate Docker images on Linux. Includes settings for monitoring via Application Insights. | 2023-04-10 | https://github.com/renatogroffe/DotNet7-WorkerService-RabbitMQ-SqlServer-AppInsights_ContagemAcessos |
