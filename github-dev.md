@@ -101,6 +101,7 @@
 | Example of consumption in a Worker Service created with .NET 7 of a REST API (access count), using the Polly library with the RateLimit standard (returning a default value after reaching a limit of requests sent). | 2023-07-12 | https://github.com/renatogroffe/DotNet7-Worker-Polly-RateLimit_ConsumoAPIContagem |
 | Example of implementing a temperature conversion REST API in .NET 8 Preview 5 + ASP.NET Core + Swagger/OpenAPI and using Generic Attributes (ProducesResponseType<T>). | 2023-07-09 | https://github.com/renatogroffe/ASPNETCore8-REST_API-GenericAttributes-Swagger_ConversorTemperaturas |
 | Example in .NET 8 of Console Application that uses the Random.Shared.GetItems method to randomly select items in structures such as arrays and spans. | 2023-07-03 | https://github.com/renatogroffe/DotNet8-ConsoleApp-RandomGetItems |
+| Example in .NET 8 of Console Application that uses the Random.Shared.Shuffle method to shuffle items into structures such as arrays and spans. | 2023-07-01 | https://github.com/renatogroffe/DotNet8-ConsoleApp-RandomShuffle |
 
 
 
