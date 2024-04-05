@@ -101,5 +101,5 @@
 
 
 
-
+| Example of message consumption from a RabbitMQ queue with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record data and a Dockerfile to generate Docker images on Linux. Includes settings for monitoring via Application Insights. | 2023-04-10 | https://github.com/renatogroffe/DotNet7-WorkerService-RabbitMQ-SqlServer-AppInsights_ContagemAcessos |
 | Example in .NET 8 of Console Application that makes use of the AllowedValuesAttribute type to validate the possible/allowed values ​​for a property in a class. | 2023-04-09 | https://github.com/renatogroffe/DotNet8-ConsoleApp-AllowedValuesAttribute |
