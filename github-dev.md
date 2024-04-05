@@ -102,15 +102,17 @@
 | Example of implementing a temperature conversion REST API in .NET 8 Preview 5 + ASP.NET Core + Swagger/OpenAPI and using Generic Attributes (ProducesResponseType<T>). | 2023-07-09 | https://github.com/renatogroffe/ASPNETCore8-REST_API-GenericAttributes-Swagger_ConversorTemperaturas |
 | Example in .NET 8 of Console Application that uses the Random.Shared.GetItems method to randomly select items in structures such as arrays and spans. | 2023-07-03 | https://github.com/renatogroffe/DotNet8-ConsoleApp-RandomGetItems |
 | Example in .NET 8 of Console Application that uses the Random.Shared.Shuffle method to shuffle items into structures such as arrays and spans. | 2023-07-01 | https://github.com/renatogroffe/DotNet8-ConsoleApp-RandomShuffle |
-
-
-
-
-
-
 | Azure DevOps pipeline for test automation (with Postman + Newman) of a REST API created with .NET 7 + ASP.NET Core and using SQL Server + Entity Framework Core Migrations. Includes the generation of HTML and XML (JUnit) reports with test results. | 2023-06-26 | https://github.com/renatogroffe/AzureDevOps-SqlServer-EFCoreMigrations-Postman-Newman-DotNet7-ASPNETCore_IntegrationTests |
 | Example of REST API created with .NET 7 + ASP.NET Core for registering and querying support tickets using SQL Server + Entity Framework + Migrations (configurations). Includes validations with FluentValidation, Dockerfile for generating application images and JavaScript tests with Postman (for executing a Collection via Newman). | 2023-06-26 | https://github.com/renatogroffe/ASPNETCore7-REST_API-SqlServer-EFCore-Migrations-Postman_ChamadosSuporte |
+
+
+
+
+
+
 | Example of implementing and automating integration tests with Azure DevOps presented during DBA Brasil 2023 | 2023-06-24 | https://github.com/renatogroffe/IntegrationTests_DBABrasil2023 |
+
+
 
 
 
