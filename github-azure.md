@@ -38,6 +38,7 @@
 | Objects for Deployment of a Worker Service (access counting) in Kubernetes using KEDA, Helm, Apache Kafka, SQL Server, Application Insights and .NET 7. | 2023-07-19 | https://github.com/renatogroffe/Kubernetes-KEDA-Kafka-DotNet7-Sql-AppInsights_ContagemAcessos |
 | Objects for Deployment of a Worker Service (access counting) in Kubernetes using KEDA, Cron Scaler, Helm, Apache Kafka, SQL Server, Application Insights and .NET 7. | 2023-07-19 | https://github.com/renatogroffe/Kubernetes-KEDA-Cron-Kafka-DotNet7-Sql-AppInsights_ContagemAcessos |
 | Example of consuming messages from an Apache Kafka topic with access count data in a Worker Service created with .NET 7, also using SQL Server + Dapper.Contrib to record data and a Dockerfile to generate Docker images on Linux. Includes settings for monitoring via Application Insights. | 2023-07-19 | https://github.com/renatogroffe/DotNet7-WorkerService-Kafka-SqlServer-AppInsights_ContagemAcessos |
+| Example in .NET 8 Preview 6 of Console Application created with C# 12 and which uses the nameof operator with Instance Members in a class. | 2023-07-16 | https://github.com/renatogroffe/CSharp12-NameOfInstanceMembers |
 
 
 
