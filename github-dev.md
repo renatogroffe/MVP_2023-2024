@@ -86,6 +86,7 @@
 | Examples with new features from .NET 8 and C# 12 presented live on 08/21/2023. | 2023-08-21 | https://github.com/renatogroffe/CSharp12-DotNet8_2023-08 |
 | Example of a REST API for counting accesses created with .NET 7 + Minimal APIs, using the dotnet user-jwts create command to generate JWTs for testing in Development environments. | 2023-08-21 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-LocalUserJwts_ContagemAcessos |
 | Example of a REST API for loading/uploading files, using Swagger and Form Data (multipart/form-data - with files + data).  | 2023-08-17 | https://github.com/renatogroffe/ASPNETCore7-REST_API-Swagger-MultipartFormData_CargaArquivos |
+| Examples of new features of .NET 8 presented on 06/19/2023. | 2023-08-09 | https://github.com/renatogroffe/DotNet8_2023-08 |
 
 
 
