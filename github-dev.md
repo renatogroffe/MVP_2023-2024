@@ -97,6 +97,8 @@
 | Example in .NET 8 Preview 6 of Console Application created with C# 12 and which uses the nameof operator with Instance Members in a class. | 2023-07-16 | https://github.com/renatogroffe/CSharp12-NameOfInstanceMembers |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core (Minimal APIs), with Rate Limiting using the Fixed Window, Fixed Window with Queue Limit and Concurrency modes + customization for using HTTP Status Code 429 (Too Many Requests). Includes load tests implemented in JavaScript with the k6 tool. | 2023-07-12 | https://github.com/renatogroffe/ASPNETCore7-MinimalApis-RateLimiting-Fixed-Concurrency-k6_ContagemAcessos |
 | Example of consumption in a Worker Service created with .NET 7 of a REST API (access count), using the Polly library with the Fallback pattern (returning a default value after reaching a limit of requests sent - Rate Limit). | 2023-07-12 | https://github.com/renatogroffe/DotNet7-Worker-Polly-Fallback-RateLimit_ConsumoAPIContagem |
+| Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core (Web API template), with Rate Limiting using the Fixed Window, Fixed Window with Queue Limit and Concurrency modes + customization for using HTTP Status Code 429 (Too Many Requests). Includes load tests implemented in JavaScript with the k6 tool. | 2023-07-12 | https://github.com/renatogroffe/ASPNETCore7-WebApi-RateLimiting-Fixed-Concurrency-k6_ContagemAcessos |
+| Example of consumption in a Worker Service created with .NET 7 of a REST API (access count), using the Polly library with the RateLimit standard (returning a default value after reaching a limit of requests sent). | 2023-07-12 | https://github.com/renatogroffe/DotNet7-Worker-Polly-RateLimit_ConsumoAPIContagem |
 
 
 
