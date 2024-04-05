@@ -91,6 +91,7 @@
 | GitHub Actions workflow for generating packages and publishing the Global Tool on NuGet using a Console Application created in .NET 7. | 2023-08-02 | https://github.com/renatogroffe/Deployment_GitHubActions-DotNet7-GlobalTool-NuGet |
 | Example of a REST API with versioning created with ASP.NET Core + .NET 7 + Minimal APIs for counting accesses, using Swagger and the ASP.NET API Versioning project (informing version number in the URL and via Query String). | 2023-07-29 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-Swagger-Versioning_ContagemAcessos |
 | Example of a REST API with versioning created with ASP.NET Core + .NET 7 to count accesses, using Swagger and the ASP.NET API Versioning project (informing the version number in the URL and optionally via Query String). | 2023-07-28 | https://github.com/renatogroffe/ASPNETCore7-REST_API-Swagger-Versioning-Url-QueryString_ContagemAcessos |
+| Exemplo de implementação de testes de carga em JavaScript para execução com a ferramenta k6, incluindo a geração de relatórios com os resultados através do projeto k6-reporter e exportação também para JMeter (arquivo .xml). Este repositório também inclui um Pipeline do Azure DevOps. | 2023-07-24 | https://github.com/renatogroffe/k6-LoadTests-Reports-JUnit-AzureDevOps_ContagemAcessos |
 
 
 
