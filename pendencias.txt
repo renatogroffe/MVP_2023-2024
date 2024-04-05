@@ -1,7 +1,8 @@
 SQL Saturday 1
+https://renatogroffe.medium.com/testes-de-performance-e-carga-com-bancos-de-dados-sql-saturday-s%C3%A3o-paulo-2023-8550ff19cdf7
+
 SQL Saturday 2
-
-
+https://renatogroffe.medium.com/gerando-massas-de-dados-para-testes-com-net-sql-saturday-s%C3%A3o-paulo-2023-32960135f698
 
 Cloud Conference
 
