@@ -93,6 +93,7 @@
 | Example of a REST API with versioning created with ASP.NET Core + .NET 7 to count accesses, using Swagger and the ASP.NET API Versioning project (informing the version number in the URL and optionally via Query String). | 2023-07-28 | https://github.com/renatogroffe/ASPNETCore7-REST_API-Swagger-Versioning-Url-QueryString_ContagemAcessos |
 | Exemplo de implementação de testes de carga em JavaScript para execução com a ferramenta k6, incluindo a geração de relatórios com os resultados através do projeto k6-reporter e exportação também para JMeter (arquivo .xml). Este repositório também inclui um Pipeline do Azure DevOps. | 2023-07-24 | https://github.com/renatogroffe/k6-LoadTests-Reports-JUnit-AzureDevOps_ContagemAcessos |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core + Minimal APIs, with monitoring via Application Insights. Includes a Dockerfile for generating Linux-based images. | 2023-07-24 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-AppInsights-Swagger_ContagemAcessos |
+| Azure DevOps pipeline for automated execution of load tests based on the kafkacat/kcat tool from the ubuntu-latest virtual environment (Linux), with execution of instructions in parallel via Bash and sending messages to an Apache Kafka topic in Azure Event Hubs. | 2023-07-20 | https://github.com/renatogroffe/AzureDevOps-Pipelines-Kafka-Bash-kcat-LoadTests |
 
 
 
