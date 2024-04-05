@@ -112,7 +112,7 @@
 
 
 
-
+| Example in .NET 8 Preview 3 of Console Application created with C# 12 and which makes use of Aliases referencing types. | 2023-04-16 | https://github.com/renatogroffe/CSharp12-AliasesTypes |
 | Example of implementing a REST API for querying Regions/States of Brazil in .NET 7 + ASP.NET Core and using Dapper, Entity Framework Core, PostgreSQL and monitoring interactions in the database with MiniProfiler. | 2023-04-12 | https://github.com/renatogroffe/ASPNETCore7-Dapper-EFCore-Postgres-MiniProfiler_RegioesEstados |
 | Example of implementing a REST API for querying Regions/States of Brazil in .NET 7 + ASP.NET Core and using Dapper, Entity Framework Core, MySQL and monitoring interactions in the database with MiniProfiler. | 2023-04-12 | https://github.com/renatogroffe/ASPNETCore7-Dapper-EFCore-MySql-MiniProfiler_RegioesEstados |
 | Example of implementing a REST API for querying Regions/States of Brazil in .NET 7 + ASP.NET Core and using Dapper, Entity Framework Core, SQL Server and monitoring interactions in the database with MiniProfiler | 2023-04-12 | https://github.com/renatogroffe/ASPNETCore7-Dapper-EFCore-SqlServer-MiniProfiler_RegioesEstados |
