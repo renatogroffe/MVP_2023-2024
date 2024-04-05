@@ -89,9 +89,6 @@
 | Examples of new features of .NET 8 presented on 06/19/2023. | 2023-08-09 | https://github.com/renatogroffe/DotNet8_2023-08 |
 | Example of Global Tool implementation using .NET 7, with Azure DevOps Pipeline (+ reference information) for publishing the package in a private Azure DevOps feed. | 2023-08-08 | https://github.com/renatogroffe/AzureDevOps-Artifacts-NuGet-DotNet7-GlobalTool |
 | GitHub Actions workflow for generating packages and publishing the Global Tool on NuGet using a Console Application created in .NET 7. | 2023-08-02 | https://github.com/renatogroffe/Deployment_GitHubActions-DotNet7-GlobalTool-NuGet |
-
-
-
 | Example of a REST API with versioning created with ASP.NET Core + .NET 7 + Minimal APIs for counting accesses, using Swagger and the ASP.NET API Versioning project (informing version number in the URL and via Query String). | 2023-07-29 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-Swagger-Versioning_ContagemAcessos |
 | Example of a REST API with versioning created with ASP.NET Core + .NET 7 to count accesses, using Swagger and the ASP.NET API Versioning project (informing the version number in the URL and optionally via Query String). | 2023-07-28 | https://github.com/renatogroffe/ASPNETCore7-REST_API-Swagger-Versioning-Url-QueryString_ContagemAcessos |
 
