@@ -107,6 +107,7 @@
 
 | Azure DevOps pipeline for test automation (with Postman + Newman) of a REST API created with .NET 7 + ASP.NET Core and using SQL Server + Entity Framework Core Migrations. Includes the generation of HTML and XML (JUnit) reports with test results. | 2023-06-26 | https://github.com/renatogroffe/AzureDevOps-SqlServer-EFCoreMigrations-Postman-Newman-DotNet7-ASPNETCore_IntegrationTests |
 | Example of REST API created with .NET 7 + ASP.NET Core for registering and querying support tickets using SQL Server + Entity Framework + Migrations (configurations). Includes validations with FluentValidation, Dockerfile for generating application images and JavaScript tests with Postman (for executing a Collection via Newman). | 2023-06-26 | https://github.com/renatogroffe/ASPNETCore7-REST_API-SqlServer-EFCore-Migrations-Postman_ChamadosSuporte |
+| Example of implementing and automating integration tests with Azure DevOps presented during DBA Brasil 2023 | 2023-06-24 | https://github.com/renatogroffe/IntegrationTests_DBABrasil2023 |
 
 
 
