@@ -50,6 +50,7 @@
 
 
 
+| Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Fan-Out, Fan-In) in Isolated Process mode, Timer Trigger and Azure Queue Storage handling simulations with dollar rates. | 2023-04-20 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-FanOutFanIn_SimulacaoDolar |
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Chaining) in Isolated Process mode and Azure Queue Storage handling simulations with dollar rates. | 2023-04-20 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-Chaining_SimulacaoDolar |
 | Examples of using Kubernetes presented during live to the Sharebook community. | 2023-04-14 | https://github.com/renatogroffe/Kubernetes_Sharebook-2023-04 |
 | Example of implementing a Serverless project using .NET 7 + Azure Functions + Isolated Process + HttpTrigger, with querying a SQL Server database with foreign currency quotes via Entity Framework Core. | 2023-04-13 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-HttpTrigger-EFCore-SqlServer_ConsultaMoedas |
