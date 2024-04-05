@@ -34,6 +34,7 @@
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Chaining + Http Async) in Isolated Process mode and generating fake company data using the Bogus library. | 2023-08-17 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-HttpAsync_GeracaoDadosEmpresas |
 | Example of using KEDA (Kubernetes Event-driven Autoscaling) presented during the 2023 edition of the RecDev Summit - the largest Technology Communities event in the Northeast of Brazil. | 2023-08-16 | https://github.com/renatogroffe/KEDA_RecDevSummit2023 |
 | Example of using KEDA Cron scaler with pre-scheduled scaling of a Web App (2 times in different timezones). | 2023-07-21 | https://github.com/renatogroffe/Kubernetes-KEDA-Cron-Timezones |
+| Objects for Deploying a Worker Service (access counting) in Kubernetes using KEDA, Helm, Cron Scaler, Apache Kafka (including Scaler), SQL Server, Application Insights and .NET 7. | 2023-07-20 | https://github.com/renatogroffe/Kubernetes-KEDA-Kafka-Cron_ContagemAcessos |
 
 
 
