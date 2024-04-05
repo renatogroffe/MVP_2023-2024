@@ -50,6 +50,8 @@
 
 
 
+
+| Examples of using Kubernetes presented during live to the Sharebook community. | 2023-04-14 | https://github.com/renatogroffe/Kubernetes_Sharebook-2023-04 |
 | Example of implementing a Serverless project using .NET 7 + Azure Functions + Isolated Process + HttpTrigger, with querying a SQL Server database with foreign currency quotes via Entity Framework Core. | 2023-04-13 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-HttpTrigger-EFCore-SqlServer_ConsultaMoedas |
 | Example of implementing a serverless application simulating euro quotes with .NET 7 + Azure Functions + Isolated Process + HTTP Trigger + Timer Trigger + Azure SQL/SQL Server (Append-Only Ledger, Output and Input Bindings). | 2023-04-12 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-SQL-InputOutputBindings_SimulacaoEuro |
 | Objects for Deploying a Worker Service (access counting) in Kubernetes using KEDA, Helm, RabbitMQ, SQL Server, Application Insights and .NET 7. | 2023-04-10 | https://github.com/renatogroffe/Kubernetes-KEDA-RabbitMQ-DotNet7-Sql-AppInsights_ContagemAcessos |
