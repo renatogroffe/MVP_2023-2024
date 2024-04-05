@@ -33,6 +33,7 @@
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Chaining + Http Async) in Isolated Process mode and generating fake company data using the Bogus library. | 2023-08-17 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-HttpAsync_GeracaoDadosEmpresas |
 
 
+| Example of a REST API with versioning created with ASP.NET Core + .NET 7 + Minimal APIs for counting accesses, using Swagger and the ASP.NET API Versioning project (informing version number in the URL and via Query String). | 2023-07-29 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-Swagger-Versioning_ContagemAcessos |
 
 
 
