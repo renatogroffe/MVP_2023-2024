@@ -90,6 +90,7 @@
 
 
 | Example of a REST API with versioning created with ASP.NET Core + .NET 7 + Minimal APIs for counting accesses, using Swagger and the ASP.NET API Versioning project (informing version number in the URL and via Query String). | 2023-07-29 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-Swagger-Versioning_ContagemAcessos |
+| Example of a REST API with versioning created with ASP.NET Core + .NET 7 to count accesses, using Swagger and the ASP.NET API Versioning project (informing the version number in the URL and optionally via Query String). | 2023-07-28 | https://github.com/renatogroffe/ASPNETCore7-REST_API-Swagger-Versioning-Url-QueryString_ContagemAcessos |
 
 
 
