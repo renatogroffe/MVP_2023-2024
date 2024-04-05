@@ -99,6 +99,7 @@
 | Example of consumption in a Worker Service created with .NET 7 of a REST API (access count), using the Polly library with the Fallback pattern (returning a default value after reaching a limit of requests sent - Rate Limit). | 2023-07-12 | https://github.com/renatogroffe/DotNet7-Worker-Polly-Fallback-RateLimit_ConsumoAPIContagem |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core (Web API template), with Rate Limiting using the Fixed Window, Fixed Window with Queue Limit and Concurrency modes + customization for using HTTP Status Code 429 (Too Many Requests). Includes load tests implemented in JavaScript with the k6 tool. | 2023-07-12 | https://github.com/renatogroffe/ASPNETCore7-WebApi-RateLimiting-Fixed-Concurrency-k6_ContagemAcessos |
 | Example of consumption in a Worker Service created with .NET 7 of a REST API (access count), using the Polly library with the RateLimit standard (returning a default value after reaching a limit of requests sent). | 2023-07-12 | https://github.com/renatogroffe/DotNet7-Worker-Polly-RateLimit_ConsumoAPIContagem |
+| Example of implementing a temperature conversion REST API in .NET 8 Preview 5 + ASP.NET Core + Swagger/OpenAPI and using Generic Attributes (ProducesResponseType<T>). | 2023-07-09 | https://github.com/renatogroffe/ASPNETCore8-REST_API-GenericAttributes-Swagger_ConversorTemperaturas |
 
 
 
