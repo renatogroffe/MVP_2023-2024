@@ -5,6 +5,7 @@
 | Example project for counting accesses using Azure Functions (Isolated Process), .NET 8, OpenApi/Swagger and HTTP Trigger. | 2024-03-01 | https://github.com/renatogroffe/DotNet8-AzureFunctions-HttpTrigger-OpenAPI_ContagemAcessos |
 | Example with scripts for creating containers demonstrating the use of Elastic APM with REST, PostgreSQL, Redis and .NET 8 APIs. | 2024-02-29 | https://github.com/renatogroffe/ElasticAPM-Http-PostgreSQL-Redis-DotNet8-Containers |
 | Free content and series of lives on the AZ-305 exam - Designing Microsoft Azure Infrastructure Solutions. | 2024-02-13 | https://github.com/renatogroffe/AZ-305_SolutionsArchitect/ |
+| Content of presentation on MFA (Multi-Factor Authentication) and Azure AD B2C held during the January-2024 edition of DevOps Experience. | 2024-01-31 | https://github.com/renatogroffe/MFA_DevOpsExperience-Jan2024 |
 | Example of a Console App created in .NET 8 and using the Microsoft.Identity + Graph API project for testing with logins in Azure AD B2C. | 2024-01-31 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn-GraphAPI |
 | Example of a Console App created in .NET 8 and using the Microsoft.Identity project for testing with logins in Azure AD B2C. | 2024-01-14 | https://github.com/renatogroffe/DotNet8-ConsoleApp-ADB2C-SignIn |
 | Free content of presentation on application scalability in Kubernetes using the KEDA (Kubernetes Event-driven Autoscaling) project, which was presented at an event with Strada professionals on 05/26/2023 (Friday). | 2023-12-26 | https://github.com/renatogroffe/KEDA_Strada2023 |
@@ -27,6 +28,7 @@
 | Example of a Console App created in .NET 7 and using the Microsoft.Identity project for testing with logins in Azure AD B2C. | 2023-09-02 | https://github.com/renatogroffe/DotNet7-ConsoleApp-ADB2C-SignIn |
 | Example of Console Application in .NET 7 for translation testing with Azure Text Translation. The HttpClient class was used, in addition to the Newtonsoft, ConsoleTools and Sharprompt libraries. | 2023-08-28 | https://github.com/renatogroffe/DotNet7-ConsoleApp-AzureTextTranslation-HttpClient |
 | Example Console Application in .NET 7 for translation testing with Azure Text Translation. The Azure.AI.Translation.Text SDK was used, in addition to the ConsoleTools and Sharprompt libraries. | 2023-08-28 | https://github.com/renatogroffe/DotNet7-ConsoleApp-AzureTextTranslation_SDK-HttpClient |
+| Example of consumption in .NET 7 of a REST API for access counting protected by tokens (JWT) generated via Azure AD B2C and using the Refit library, with failure handling using the Polly library. | 2023-08-21 | https://github.com/renatogroffe/DotNet7-Refit-ADB2C-JWT-Polly_ConsumoAPIContagem |
 
 
 
