@@ -113,6 +113,7 @@
 | Example of REST API created with .NET 7 + ASP.NET Core for registering and querying support tickets using PostgreSQL + Entity Framework + Migrations (configurations). Includes validations with FluentValidation, Dockerfile for generating application images and JavaScript tests with Postman (for executing a Collection via Newman). | 2023-06-24 | https://github.com/renatogroffe/ASPNETCore7-REST_API-PostgreSQL-EFCore-Migrations-Postman_ChamadosSuporte |
 
 
+| Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core, using extensions defined in a Class Library to use JWT (JSON Web Tokens) + JwtBearerEvents and configurations for Swagger to support tokens. Includes .http files for testing from VS Code and Visual Studio 2022. | 2023-06-05 | https://github.com/renatogroffe/ASPNETCore7-JWT-BearerEvents-Swagger-Extensions-HttpFiles_ContagemAcessos |
 
 
 
