@@ -46,6 +46,7 @@
 | Examples of integration between Azure Kubernetes Service and App Configuration when deploying a website (access counting). | 2023-05-15 | https://github.com/renatogroffe/AKS-AppConfiguration_SiteContagem |
 
 
+| Example of implementing a Serverless project using .NET 6, Azure Durable Functions (Aggregator + Stateful Entities) in In-Process mode and HTTP Trigger to count accesses (HTTP requests). | 2023-05-08 | https://github.com/renatogroffe/DotNet6-AzureDurableFunctions-Http-Aggregator_ContagemAcessos |
 | Example of using KEDA (Kubernetes Event-driven Autoscaling) presented during the April-2023 edition of DevOps Experience. | 2023-04-27 | https://github.com/renatogroffe/KEDA_DevOpsExperience-Abr2023 |
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Fan-Out, Fan-In) in Isolated Process mode, Timer Trigger and Azure Queue Storage handling simulations with dollar rates. | 2023-04-20 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-FanOutFanIn_SimulacaoDolar |
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Chaining) in Isolated Process mode and Azure Queue Storage handling simulations with dollar rates. | 2023-04-20 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-Chaining_SimulacaoDolar |
