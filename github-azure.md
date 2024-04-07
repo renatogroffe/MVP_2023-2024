@@ -1,3 +1,13 @@
+# Repositories - Microsoft Azure
+
+Number of repositories: **58**
+
+Main technologies: **Kubernetes, Azure Functions, Azure AD B2C, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
+
+**First repository created on April 10, 2023.**
+
+**Last repository created on March 13, 2024.**
+
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Script in .http format for testing with Graph API in Azure AD B2C and which makes use of Users, Applications and Authentication Methods endpoints. | 2024-03-13 | https://github.com/renatogroffe/GraphAPI-Applications-Users-AuthMethods |
