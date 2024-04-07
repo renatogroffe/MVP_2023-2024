@@ -114,11 +114,6 @@
 | Example in .NET 8 Preview 4 of Console Application created with C# 12 and which uses a Primary Constructor to implement a struct. | 2023-06-12 | https://github.com/renatogroffe/CSharp12-PrimaryConstructorStruct |
 | Example in .NET 8 Preview 4 of Console Application created with C# 12 and which uses a Primary Constructor to implement a class. | 2023-06-12 | https://github.com/renatogroffe/CSharp12-PrimaryConstructorClass |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core, using extensions defined in a Class Library to use JWT (JSON Web Tokens) + JwtBearerEvents and configurations for Swagger to support tokens. Includes .http files for testing from VS Code and Visual Studio 2022. | 2023-06-05 | https://github.com/renatogroffe/ASPNETCore7-JWT-BearerEvents-Swagger-Extensions-HttpFiles_ContagemAcessos |
-
-
-
-
-
 | Example of implementing a REST API in .NET 7 + ASP.NET Core using MiniProfiler + MediatR + CQS (Command-query separation), Open API/Swagger, with recording (via Entity Framework Core) and querying (via Dapper) information about support tickets. | 2023-05-22 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
 
 
