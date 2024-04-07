@@ -120,7 +120,7 @@
 
 
 
-
+| Example of using KEDA (Kubernetes Event-driven Autoscaling) presented during the April-2023 edition of DevOps Experience. | 2023-04-27 | https://github.com/renatogroffe/KEDA_DevOpsExperience-Abr2023 |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core + Minimal APIs, with Rate Limiting using Fixed Window mode, Queue Limit and customization for using HTTP Status Code 429 (Too Many Requests). | 2023-04-24 | https://github.com/renatogroffe/DotNet7-MinimalAPIs-RateLimitingFixedWindow-QueueLimit_ContagemAcessos |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core (Web API template), with Rate Limiting using Fixed Window mode, Queue Limit and customization for using HTTP Status Code 429 (Too Many Requests). | 2023-04-24 | https://github.com/renatogroffe/ASPNETCore7-WebApi-RateLimitingFixedWindow-QueueLimit_ContagemAcessos |
 | Example in .NET 7 of Console Application created with C# 11 and which demonstrates the generation of alerts (Warning wave 7) for classes whose names are made up of only lowercase characters. | 2023-04-24 | https://github.com/renatogroffe/CSharp11-WarningWave7 |
