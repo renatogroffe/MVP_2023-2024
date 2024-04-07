@@ -15,15 +15,23 @@ TDC OpenTelemetry
 https://github.com/renatogroffe/Tracing-TDCBusiness2023
 
 
+SENAI OPEN AI
+
 SENAI Microservices
 
 SENAI Certificação
 
-Build Microsoft 2 sessoes
-
-Alura k6
 .NET Conf jan
 .NET Conf fev
-Paytech
 Containers Night
+
+---
+
+Build Microsoft 2 sessoes
+
+---
+
+Alura k6
+
+Paytech
 Michael Page
