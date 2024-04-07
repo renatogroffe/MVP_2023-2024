@@ -116,6 +116,7 @@
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core, using extensions defined in a Class Library to use JWT (JSON Web Tokens) + JwtBearerEvents and configurations for Swagger to support tokens. Includes .http files for testing from VS Code and Visual Studio 2022. | 2023-06-05 | https://github.com/renatogroffe/ASPNETCore7-JWT-BearerEvents-Swagger-Extensions-HttpFiles_ContagemAcessos |
 | Example of implementing a REST API in .NET 7 + ASP.NET Core using MiniProfiler + MediatR + CQS (Command-query separation), Open API/Swagger, with recording (via Entity Framework Core) and querying (via Dapper) information about support tickets. | 2023-05-22 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
 | 11 examples of implementing features of .NET 7 and ASP.NET Core. | 2023-05-17 | https://github.com/renatogroffe/DotNet7-APIs_2023-05 |
+| Examples of using dependency injection in a REST API created with ASP.NET Core + .NET 7 + Minimal APIs. | 2023-05-17 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-InjDependencias |
 
 
 
