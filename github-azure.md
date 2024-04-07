@@ -2,7 +2,7 @@
 
 Number of repositories: **58**
 
-Main technologies: **Kubernetes, Azure Functions, Azure AD B2C, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
+Main technologies: **Kubernetes, Azure Kubernetes Service, KEDA, Azure Functions, Azure AD B2C, Azure Storage, Azure Service Bus, Azure Key Vault, Azure App Configuration, Azure Event Hubs**
 
 **First repository created on April 10, 2023.**
 
