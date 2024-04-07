@@ -48,6 +48,7 @@
 
 
 
+| Example in .NET 7 of Console Application created with C# 11 and which makes use of Generic Math in a method used in calculations with double and decimal types. | 2023-04-23 | https://github.com/renatogroffe/CSharp11-GenericMath |
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Fan-Out, Fan-In) in Isolated Process mode, Timer Trigger and Azure Queue Storage handling simulations with dollar rates. | 2023-04-20 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-FanOutFanIn_SimulacaoDolar |
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Chaining) in Isolated Process mode and Azure Queue Storage handling simulations with dollar rates. | 2023-04-20 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-Chaining_SimulacaoDolar |
 | Examples of using Kubernetes presented during live to the Sharebook community. | 2023-04-14 | https://github.com/renatogroffe/Kubernetes_Sharebook-2023-04 |
