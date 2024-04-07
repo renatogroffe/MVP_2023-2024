@@ -8,3 +8,10 @@
 | k6: simplifying your load and performance tests - Cloud Conference Day | 2023-11-10 | Online presentation covering the implementation of load and performance tests with the k6 tool.<br/>Technologies covered: k6, Azure DevOps, Azure Pipelines Linux, .NET 7, ASP.NET Core, Azure Container Apps, Visual Studio Code | https://github.com/renatogroffe/k6-LoadTests_CloudConference-2023-11 | 20 |
 | k6: simplifying your load and performance tests - DevOps Experience 2023-08 | 2023-08-31 | Online presentation covering the implementation of load and performance tests with the k6 tool.<br/>Technologies covered: k6, Azure DevOps, Azure Pipelines Linux, .NET 7, ASP.NET Core, Azure Container Apps, Visual Studio Code | https://github.com/renatogroffe/LoadTests-k6_DevOpsExperience-Ago2023 | 332 |
 | Automating Integration Tests with Database Dependencies using Azure DevOps - DBA BRASIL Data & Cloud 2023 | 2023-06-24 | --------------Presentation covering the implementation and automation of tests for applications that depend on database technologies in Azure DevOps.<br/>Technologies covered: Azure DevOps, Azure Pipelines, PostgreSQL, .NET 7, ASP.NET Core, Linux/Ubuntu, Postman, Newman, npm, Entity Framework Core, Git, Azure Repos | https://renatogroffe.medium.com/azure-devops-bancos-de-dados-automatizando-testes-de-integra%C3%A7%C3%A3o-dba-brasil-data-cloud-2023-a53f86df8ebc | 22 |
+
+
+Technologies covered: GitHub Copilot, Visual Studio Code, .NET, ASP.NET Core, PowerShell, Azure CLI
+
+
+| GitHub Copilot: productivity in code deployment - NET São Paulo | 2023-04-01 | ------------------------------- | https://github.com/DotNetSP/OpenAI-2023-04/ | 41 |
+| Panel: Ethical limits and impact on jobs brought by Artificial Intelligence - NET São Paulo | 2023-04-01 | ------------------------------- | https://github.com/DotNetSP/OpenAI-2023-04/ | 41 |
