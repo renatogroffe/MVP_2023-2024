@@ -111,17 +111,18 @@
 | Example of implementing and automating integration tests with Azure DevOps presented during DBA Brasil 2023. | 2023-06-24 | https://github.com/renatogroffe/IntegrationTests_DBABrasil2023 |
 | Azure DevOps pipeline for test automation (with Postman + Newman) of a REST API created with .NET 7 + ASP.NET Core and using PostgreSQL + Entity Framework Core Migrations. Includes the generation of HTML and XML (JUnit) reports with test results. | 2023-06-24 | https://github.com/renatogroffe/AzureDevOps-PostgreSQL-EFCoreMigrations-Postman-Newman-DotNet7-ASPNETCore_IntegrationTests |
 | Example of REST API created with .NET 7 + ASP.NET Core for registering and querying support tickets using PostgreSQL + Entity Framework + Migrations (configurations). Includes validations with FluentValidation, Dockerfile for generating application images and JavaScript tests with Postman (for executing a Collection via Newman). | 2023-06-24 | https://github.com/renatogroffe/ASPNETCore7-REST_API-PostgreSQL-EFCore-Migrations-Postman_ChamadosSuporte |
-
-
-
-
 | Example in .NET 8 Preview 4 of Console Application created with C# 12 and which uses a Primary Constructor to implement a struct. | 2023-06-12 | https://github.com/renatogroffe/CSharp12-PrimaryConstructorStruct |
 | Example in .NET 8 Preview 4 of Console Application created with C# 12 and which uses a Primary Constructor to implement a class. | 2023-06-12 | https://github.com/renatogroffe/CSharp12-PrimaryConstructorClass |
-
-
-
-
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core, using extensions defined in a Class Library to use JWT (JSON Web Tokens) + JwtBearerEvents and configurations for Swagger to support tokens. Includes .http files for testing from VS Code and Visual Studio 2022. | 2023-06-05 | https://github.com/renatogroffe/ASPNETCore7-JWT-BearerEvents-Swagger-Extensions-HttpFiles_ContagemAcessos |
+
+
+
+
+
+| ------------ | 2023-05-22 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
+
+
+
 
 
 
