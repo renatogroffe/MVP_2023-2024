@@ -125,7 +125,7 @@
 
 
 
-
+| Example in .NET 7 of Console Application created with C# 11 and which makes use of Generic Math in a method used in calculations with double and decimal types. | 2023-04-23 | https://github.com/renatogroffe/CSharp11-GenericMath |
 | Example in .NET 8 of Console Application that uses the DeniedValuesAttribute attribute to validate disallowed values ​​for a property in a class. | 2023-04-21 | https://github.com/renatogroffe/DotNet8-ConsoleApp-DeniedValuesAttribute |
 | Example in .NET 8 Preview 3 of Console Application created with C# 12 and which makes use of Aliases referencing types. | 2023-04-16 | https://github.com/renatogroffe/CSharp12-AliasesTypes |
 | Example of implementing a REST API for querying Regions/States of Brazil in .NET 7 + ASP.NET Core and using Dapper, Entity Framework Core, PostgreSQL and monitoring interactions in the database with MiniProfiler. | 2023-04-12 | https://github.com/renatogroffe/ASPNETCore7-Dapper-EFCore-Postgres-MiniProfiler_RegioesEstados |
