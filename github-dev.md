@@ -121,7 +121,7 @@
 
 
 
-
+| Example in .NET 8 Preview 3 of Console Application created with C# 12 and which uses default values ​​with lambda expressions. | 2023-05-07 | https://github.com/renatogroffe/CSharp12-DefaultValuesLambdaExpressions |
 | Example of Console App created with .NET 7 and demonstrating the use of the new TarFile class in generating files grouping the contents of a directory. | 2023-04-29 | https://github.com/renatogroffe/DotNet7-ConsoleApp-TarFile |  
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core + Minimal APIs, with Rate Limiting using Fixed Window mode, Queue Limit and customization for using HTTP Status Code 429 (Too Many Requests). | 2023-04-24 | https://github.com/renatogroffe/DotNet7-MinimalAPIs-RateLimitingFixedWindow-QueueLimit_ContagemAcessos |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core (Web API template), with Rate Limiting using Fixed Window mode, Queue Limit and customization for using HTTP Status Code 429 (Too Many Requests). | 2023-04-24 | https://github.com/renatogroffe/ASPNETCore7-WebApi-RateLimitingFixedWindow-QueueLimit_ContagemAcessos |
