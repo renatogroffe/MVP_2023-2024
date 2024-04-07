@@ -117,6 +117,9 @@
 | Example of implementing a REST API in .NET 7 + ASP.NET Core using MiniProfiler + MediatR + CQS (Command-query separation), Open API/Swagger, with recording (via Entity Framework Core) and querying (via Dapper) information about support tickets. | 2023-05-22 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
 | 11 examples of implementing features of .NET 7 and ASP.NET Core. | 2023-05-17 | https://github.com/renatogroffe/DotNet7-APIs_2023-05 |
 | Examples of using dependency injection in a REST API created with ASP.NET Core + .NET 7 + Minimal APIs. | 2023-05-17 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-InjDependencias |
+| Examples of using dependency injection in a REST API created with ASP.NET Core + .NET 7. | 2023-05-17 | https://github.com/renatogroffe/ASPNETCore7-WebApi-InjDependencias |
+
+
 
 
 | Example of Console App created with .NET 7 and demonstrating the use of the new TarFile class in generating files grouping the contents of a directory. | 2023-04-29 | https://github.com/renatogroffe/DotNet7-ConsoleApp-TarFile |  
