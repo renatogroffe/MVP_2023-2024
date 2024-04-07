@@ -7,6 +7,10 @@ Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, JWT, Postman, k6, SQL
 
 **First repository created on April 9, 2023.**
 
+**Last repository created on March 28, 2024.**
+
+The table below describes each of the projects, including links to view each of these examples.
+
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Presentation content on OWASP API Security Top 10 held during the March-2024 edition of DevOps Experience. | 2024-03-28 | https://github.com/renatogroffe/OWASPApiTop10_DevOpsExperience-Mar2024 |
