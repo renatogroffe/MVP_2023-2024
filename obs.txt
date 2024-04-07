@@ -11,6 +11,11 @@ Lecture held during the November 2023 edition of Cloud Conference Day (an online
 
 IT professionals from the city of São Paulo-SP and students from the Escola SENAI Suíço-Brasileiraparticipated in the event.
 
+
+
+Evento presencial da comunidade .NET São Paulo e que contou com as seguintes apresentações:
+
+
 ---
 
 The Preview 7 of .NET 8 was used in this article.
