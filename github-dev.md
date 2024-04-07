@@ -118,7 +118,7 @@
 | 11 examples of implementing features of .NET 7 and ASP.NET Core. | 2023-05-17 | https://github.com/renatogroffe/DotNet7-APIs_2023-05 |
 | Examples of using dependency injection in a REST API created with ASP.NET Core + .NET 7 + Minimal APIs. | 2023-05-17 | https://github.com/renatogroffe/ASPNETCore7-MinimalAPIs-InjDependencias |
 | Examples of using dependency injection in a REST API created with ASP.NET Core + .NET 7. | 2023-05-17 | https://github.com/renatogroffe/ASPNETCore7-WebApi-InjDependencias |
-| Examples of integration between Azure Kubernetes Service and App Configuration when deploying a website (access counting). | 2023-05-15 | https://github.com/renatogroffe/AKS-AppConfiguration_SiteContagem |
+
 
 
 
