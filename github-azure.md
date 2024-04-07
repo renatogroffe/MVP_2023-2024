@@ -44,6 +44,9 @@
 | Example of a Postman Collection obtaining an Access Token from an Azure AD B2C User Flow and sending a request to an access counting REST API. | 2023-06-19 | https://github.com/renatogroffe/Postman-Collection-AzureADB2C_APIContagem |
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Chaining) in Isolated Process mode, Timer Trigger, Azure Queue Storage and Azure Service Bus handling simulations with dollar rates. | 2023-06-19 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
 | Examples of integration between Azure Kubernetes Service and App Configuration when deploying a website (access counting). | 2023-05-15 | https://github.com/renatogroffe/AKS-AppConfiguration_SiteContagem |
+| Examples of using .NET 7 and Azure Functions presented during Global Azure 2023. | 2023-05-13 | https://github.com/renatogroffe/DotNet7-AzureFunctions_GlobalAzure2023 |
+
+
 
 
 | Example of implementing a Serverless project using .NET 6, Azure Durable Functions (Aggregator + Stateful Entities) in In-Process mode and HTTP Trigger to count accesses (HTTP requests). | 2023-05-08 | https://github.com/renatogroffe/DotNet6-AzureDurableFunctions-Http-Aggregator_ContagemAcessos |
