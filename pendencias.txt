@@ -35,3 +35,20 @@ Alura k6
 
 Paytech
 Michael Page
+
+
+---
+
+137 GitHub repositories on Developer Technologies - .NET, C#, ASP.NET Core, Azure DevOps...
+
+.
+
+These repositories provide examples of use of .NET 7, .NET 8, .NET 9, C#11, C# 12, ASP.NET Core, Azure DevOps, open source frameworks, Postman, k6 and scripts for using Visual Studio Code extensions.
+
+.
+
+These examples bring studies on new technologies, solutions for solving everyday problems and proofs of concept involving Development solutions.
+
+There were 615 stars (total count) in these repositories as of March 31, 2024.
+
+I informed the number of followers I have on GitHub (+2,800) in the reach.
