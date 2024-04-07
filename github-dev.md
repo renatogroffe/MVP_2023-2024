@@ -1,3 +1,12 @@
+
+# Repositories - Developer Technologies
+
+Number of repositories: **137**
+
+Main technologies: **.NET, C#, ASP.NET Core, Azure DevOps, JWT, Postman, k6, SQL Server, PostgreSQL**
+
+**First repository created on April 9, 2023.**
+
 | Description | Date | Link |
 | ------------ | ---- | ---- |
 | Presentation content on OWASP API Security Top 10 held during the March-2024 edition of DevOps Experience. | 2024-03-28 | https://github.com/renatogroffe/OWASPApiTop10_DevOpsExperience-Mar2024 |
