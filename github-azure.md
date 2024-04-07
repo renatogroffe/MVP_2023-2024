@@ -45,15 +45,10 @@
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Chaining) in Isolated Process mode, Timer Trigger, Azure Queue Storage and Azure Service Bus handling simulations with dollar rates. | 2023-06-19 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
 | Examples of integration between Azure Kubernetes Service and App Configuration when deploying a website (access counting). | 2023-05-15 | https://github.com/renatogroffe/AKS-AppConfiguration_SiteContagem |
 | Examples of using .NET 7 and Azure Functions presented during Global Azure 2023. | 2023-05-13 | https://github.com/renatogroffe/DotNet7-AzureFunctions_GlobalAzure2023 |
-
-
 | Example of implementing a serverless application monitoring changes in a foreign currency quote table with .NET 7 + Azure Functions + Isolated Process + SQL Trigger + Azure SQL/SQL Server (Change Retention + Change Tracking). It also includes sending the information to a RabbitMQ queue. | 2023-05-13 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-SqlTrigger-RabbitMQ_ChangeTrackingMoedas |
 | Example of implementing a serverless application monitoring changes in a foreign currency quote table with .NET 7 + Azure Functions + Isolated Process + SQL Trigger + Azure SQL/SQL Server (Change Retention + Change Tracking). It also includes sending the information to an Azure Queue Storage Queue. | 2023-05-13 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-SqlTrigger-AzureQueue_ChangeTrackingMoedas |
 | Example of implementing a Serverless project using .NET 7 + Azure Functions + Isolated Process + HTTP Trigger + Swagger/Open API, with querying a SQL Server database with foreign currency quotes via Entity Framework Core. | 2023-05-13 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-HttpTrigger-OpenApi-EFCore-SqlServer_ConsultaMoedas |
-
-
-
-
+| Example of implementing a serverless application simulating euro quotes with .NET 7 + Azure Functions + Isolated Process + HTTP Trigger + Swagger/OpenAPI + Timer Trigger + Azure SQL/SQL Server (Change Tracking, Output and Input Bindings). | 2023-05-13 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-SQL-InputOutputBindings-OpenApi_SimulacaoEuro |
 | Example of implementing a serverless application monitoring changes in a foreign currency quote table with .NET 7 + Azure Functions + Isolated Process + SQL Trigger + Azure SQL/SQL Server (Change Retention + Change Tracking). | 2023-05-10 | https://github.com/renatogroffe/DotNet7-AzureFunctions-Isolated-SqlTrigger_ChangeTrackingMoedas |
 | Example of implementing a Serverless project using .NET 6, Azure Durable Functions (Aggregator + Stateful Entities) in In-Process mode and HTTP Trigger to count accesses (HTTP requests). | 2023-05-08 | https://github.com/renatogroffe/DotNet6-AzureDurableFunctions-Http-Aggregator_ContagemAcessos |
 | Example of using KEDA (Kubernetes Event-driven Autoscaling) presented during the April-2023 edition of DevOps Experience. | 2023-04-27 | https://github.com/renatogroffe/KEDA_DevOpsExperience-Abr2023 |
