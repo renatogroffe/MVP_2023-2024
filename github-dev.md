@@ -121,7 +121,7 @@
 
 
 
-
+| Example in .NET 7 of Console Application created with C# 11 and which makes use of improvements in the Method Group Conversion mechanism with Delegates | 2023-04-24 | https://github.com/renatogroffe/CSharp11-MethodGroupConversionDelegate |
 | Example in .NET 7 of Console Application created with C# 11 and which makes use of Generic Math in a method used in calculations with double and decimal types. | 2023-04-23 | https://github.com/renatogroffe/CSharp11-GenericMath |
 | Example in .NET 8 of Console Application that uses the DeniedValuesAttribute attribute to validate disallowed values ​​for a property in a class. | 2023-04-21 | https://github.com/renatogroffe/DotNet8-ConsoleApp-DeniedValuesAttribute |
 | Example in .NET 8 Preview 3 of Console Application created with C# 12 and which makes use of Aliases referencing types. | 2023-04-16 | https://github.com/renatogroffe/CSharp12-AliasesTypes |
