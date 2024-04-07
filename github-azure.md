@@ -44,6 +44,8 @@
 | Example of a Postman Collection obtaining an Access Token from an Azure AD B2C User Flow and sending a request to an access counting REST API. | 2023-06-19 | https://github.com/renatogroffe/Postman-Collection-AzureADB2C_APIContagem |
 
 
+| Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Chaining) in Isolated Process mode, Timer Trigger, Azure Queue Storage and Azure Service Bus handling simulations with dollar rates. | 2023-06-19 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
+
 
 
 | Example of implementing a Serverless project using .NET 7, Azure Durable Functions (Fan-Out, Fan-In) in Isolated Process mode, Timer Trigger and Azure Queue Storage handling simulations with dollar rates. | 2023-04-20 | https://github.com/renatogroffe/DotNet7-AzureDurableFunctions-FanOutFanIn_SimulacaoDolar |
