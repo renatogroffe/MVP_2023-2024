@@ -119,7 +119,7 @@
 
 
 
-| ------------ | 2023-05-22 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
+| Example of implementing a REST API in .NET 7 + ASP.NET Core using MiniProfiler + MediatR + CQS (Command-query separation), Open API/Swagger, with recording (via Entity Framework Core) and querying (via Dapper) information about support tickets. | 2023-05-22 | https://github.com/renatogroffe/ASPNETCore7-EFCore-Dapper-SqlServer-MiniProfiler-MediatR-CQS_SupportRequests |
 
 
 
