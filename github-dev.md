@@ -118,7 +118,7 @@
 | 11 examples of implementing features of .NET 7 and ASP.NET Core. | 2023-05-17 | https://github.com/renatogroffe/DotNet7-APIs_2023-05 |
 
 
-
+| Example in .NET 7 of Console Application created with C# 11 and which demonstrates the generation of alerts (Warning wave 7) for classes whose names are made up of only lowercase characters. | 2023-04-24 | https://github.com/renatogroffe/CSharp11-WarningWave7 |
 | Example of a REST API for counting accesses created with .NET 7 + ASP.NET Core (Web API template), with Rate Limiting using Concurrency mode and customization to use HTTP Status Code 429 (Too Many Requests). Includes load tests implemented in JavaScript with the k6 tool. | 2023-04-24 | https://github.com/renatogroffe/ASPNETCore7-WebApi-RateLimitingConcurrency-StatusCode429_ContagemAcessos |
 | Example in .NET 7 of Console Application created with C# 11 and which uses aliases (nint and nuint) for the IntPtr and UIntPtr types. | 2023-04-24 | https://github.com/renatogroffe/CSharp11-AliasIntPtrUIntPtr |
 | Example in .NET 7 of Console Application created with C# 11 and which makes use of improvements in the Method Group Conversion mechanism with Delegates | 2023-04-24 | https://github.com/renatogroffe/CSharp11-MethodGroupConversionDelegate |
