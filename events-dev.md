@@ -1,3 +1,13 @@
+# Speaker at Third-party Events - Developer Technologies
+
+Number of talks: **17**
+
+Number of attendees (considering all talks): **1057**
+
+Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Azure, k6, Postman**
+
+The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
+
 | Event | Date | Description | Link | Participants |
 | ------------| ---- | ------------ | ---- | ---- |
 | OWASP API Security Top 10: recommendations for more secure APIs - DevOps Experience 2024-03 | 2024-03-28 | Online presentation covering the vulnerabilities that are part of the OWASP API Security Top 10 list, with tips, guidance and even tool suggestions to make the implementation of REST APIs safer and more reliable.<br/>Technologies used: JWT, Azure API Management, .NET 8, ASP.NET Core, Microsoft Entra ID, Azure AD B2C | https://renatogroffe.medium.com/owasp-api-security-top-10-apis-rest-mais-seguras-devops-experience-mar%C3%A7o-2024-06814dfabb24 | 116 |
