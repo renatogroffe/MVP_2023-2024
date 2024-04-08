@@ -1,3 +1,13 @@
+# Speaker at Third-party Events - Microsoft Azure
+
+Number of talks: **22**
+
+Number of attendees (considering all talks): **351**
+
+Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Azure, k6, Postman**
+
+The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
+
 | Event | Date | Description | Link | Participants |
 | ------------| ---- | ------------ | ---- | ---- |
 | What's New in Containerized Development with .NET 8 and Microsoft Azure - .NET Conf 2024 Azure Talks | 2024-02-16 | ------------------------------- | https://github.com/azuretalks/Dotnet-Conf-2024-02 | 8 |
