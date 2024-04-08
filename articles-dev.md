@@ -1,3 +1,17 @@
+# Articles - Developer Technologies
+
+Number of articles: **69**
+
+Blog where these articles were published: **https://renatogroffe.medium.com/**
+
+Main technologies covered: **.NET 7, .NET 8, .NET 9, ASP.NET Core, C# 11, C# 12, Visual Studio 2022, Visual Studio Code, Azure DevOps, Minimal APIs, JWT, open source frameworks, Postman, k6...**
+
+**First repository published on April 3, 2023.**
+
+**Last repository published on March 16, 2024.**
+
+The table below describes each of the articles, including links to view each content.
+
 | Article | Date | Description | Link |
 | ------------ | ---- | ------------ | ---- |
 | .NET 9 - New Features: JSON serialization improvements with IndentCharacter and IndentSize | 2024-03-16 | Article about new features of .NET 9. In this post I cover improvements involving serialization in JSON format: the possibility of configuring indentation in JsonSerializerOptions with the IndentCharacter and IndentSize properties.<br/>Technologies used: .NET 9, C#, Visual Studio 2022, Windows Terminal | https://renatogroffe.medium.com/novidades-do-net-9-melhorias-na-serializa%C3%A7%C3%A3o-json-com-indentcharacter-e-indentsize-c6d78aceac62 |
