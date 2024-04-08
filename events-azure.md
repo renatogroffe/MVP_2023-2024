@@ -2,9 +2,9 @@
 
 Number of talks: **22**
 
-Number of attendees (considering all talks): **351**
+Number of attendees (considering all talks): **2480**
 
-Main technologies: **.NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps, Microsoft Azure, k6, Postman**
+Main technologies: **Azure Kubernetes Service, Kubernetes, Azure Container Apps, KEDA, Azure AD B2C, Microsoft Entra ID, Linux, Azure App Service, .NET, C#, ASP.NET Core, Visual Studio, Visual Studio Code, Azure DevOps**
 
 The following links describe each of these talks, including links with information about them, photos and prints of the presentations.
 
