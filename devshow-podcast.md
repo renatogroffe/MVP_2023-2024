@@ -1,3 +1,5 @@
+| Episode | Date | Description | Link |
+| ------------| ---- | ------------ | ---- |
 | DevShow #49 - Cloud Native | 2024-02-26 | ------------------------------- | https://devshow.com.br/episode/devshow-49-cloud-native/ | 276 |
 | DevShow #48 - Retrospective 2023 | 2023-12-30 | ------------------------------- | https://devshow.com.br/episode/devshow-48-retrospectiva-2023/ | 396 |
 | DevShow #47 - High Availability and Disaster Recovery | 2023-11-13 | ------------------------------- | https://devshow.com.br/episode/devshow-47-alta-disponibilidade-e-disaster-recovery/ | 582 |
